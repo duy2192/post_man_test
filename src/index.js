@@ -1,9 +1,8 @@
 const sampleJson = require("../sample/sample.json");
 const convertToExcel = require("./utils/convertToExcel");
 const { test } = require("./utils/test_func");
-
 //Số lượng request tối đa
-const MAX_REQUEST = 20;
+const { MAX_REQUEST } = require("./config");
 
 const main = async () => {
   const listRequest = [];

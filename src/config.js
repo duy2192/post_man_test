@@ -6,9 +6,12 @@ const sampleFileName = "Book1.csv";
 
 const sampleConvertName = "sample.json";
 
+const MAX_REQUEST = 20;
+
 module.exports = {
   apiUrl,
   token,
   sampleFileName,
   sampleConvertName,
+  MAX_REQUEST,
 };
