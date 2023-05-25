@@ -1,4 +1,4 @@
-const { apiUrl, token } = require("./config.js");
+const { apiUrl, token } = require("../config.js");
 
 const toEqual = (actual, expect) => {
   return actual == expect;
