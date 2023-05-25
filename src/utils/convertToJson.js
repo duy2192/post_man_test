@@ -1,7 +1,7 @@
 const csv = require("csv-parser");
 const fs = require("fs");
 const path = require("path");
-const { sampleFileName, sampleConvertName } = require("./config");
+const { sampleFileName, sampleConvertName } = require("../config");
 
 const convertToJson = (sampleFileName, sampleConvertName) => {
   try {

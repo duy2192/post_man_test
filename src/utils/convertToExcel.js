@@ -14,7 +14,7 @@ const convertToExcel = async (json) => {
       ],
     });
 
-    const fileName = "result" + new Date().getTime() + ".xlsx";
+    const fileName = "result.xlsx";
     const filePath = path.join(__dirname, "../../result/" + fileName);
     await fs.writeFileSync(filePath, xls, "binary");
     console.log("Tạo file excel thành công! ==>" + fileName);
