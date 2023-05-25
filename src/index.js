@@ -3,7 +3,7 @@ const convertToExcel = require("./utils/convertToExcel");
 const { test } = require("./utils/test_func");
 
 //Số lượng request tối đa
-const MAX_REQUEST = 1;
+const MAX_REQUEST = 20;
 
 const main = async () => {
   const listRequest = [];
