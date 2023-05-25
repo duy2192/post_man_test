@@ -1,1007 +1,1005 @@
-﻿message,language,expected_entity_type,expected_code
-I work as a software engineer. ,EN,_JOB,200
-Her job is to be a teacher. ,EN,_JOB,200
-He is employed as a doctor. ,EN,_JOB,200
-My profession is a lawyer. ,EN,_JOB,200
-She works as a nurse. ,EN,_JOB,200
-He is a firefighter. ,EN,_JOB,200
-My job is to be a chef. ,EN,_JOB,200
-I work as a graphic designer. ,EN,_JOB,200
-He is an accountant. ,EN,_JOB,200
-She works as a sales representative. ,EN,_JOB,200
-My profession is a journalist. ,EN,_JOB,200
-He is employed as an architect. ,EN,_JOB,200
-I work as a marketing manager. ,EN,_JOB,200
-She is a police officer. ,EN,_JOB,200
-His job is to be a pilot. ,EN,_JOB,200
-I work as a financial analyst. ,EN,_JOB,200
-She is a librarian. ,EN,_JOB,200
-He is employed as a mechanic. ,EN,_JOB,200
-My profession is a dentist. ,EN,_JOB,200
-I work as a software developer. ,EN,_JOB,200
-She is a pharmacist. ,EN,_JOB,200
-His job is to be a photographer. ,EN,_JOB,200
-I work as a project manager. ,EN,_JOB,200
-He is a construction worker. ,EN,_JOB,200
-My profession is a professor. ,EN,_JOB,200
-She is employed as a psychologist. ,EN,_JOB,200
-I work as a data analyst. ,EN,_JOB,200
-He is a mechanic. ,EN,_JOB,200
-She works as a financial advisor. ,EN,_JOB,200
-My job is to be a fashion designer. ,EN,_JOB,200
-I work as a teacher. ,EN,_JOB,200
-She is a nurse. ,EN,_JOB,200
-His job is to be a software engineer. ,EN,_JOB,200
-I work as a lawyer. ,EN,_JOB,200
-My profession is a chef. ,EN,_JOB,200
-I work as a nurse practitioner. ,EN,_JOB,200
-She is a marketing manager. ,EN,_JOB,200
-His job is to be a graphic designer. ,EN,_JOB,200
-I work as a police officer. ,EN,_JOB,200
-He is a pilot. ,EN,_JOB,200
-My profession is an accountant. ,EN,_JOB,200
-She works as a software developer. ,EN,_JOB,200
-I work as a journalist. ,EN,_JOB,200
-He is a dentist. ,EN,_JOB,200
-She is a teacher. ,EN,_JOB,200
-His job is to be a project manager. ,EN,_JOB,200
-I work as a pharmacist. ,EN,_JOB,200
-She is a photographer. ,EN,_JOB,200
-My profession is a mechanic. ,EN,_JOB,200
-I work as a psychologist. ,EN,_JOB,200
-He is a lawyer. ,EN,_JOB,200
-She works as a data analyst. ,EN,_JOB,200
-His job is to be a construction worker. ,EN,_JOB,200
-I work as a professor. ,EN,_JOB,200
-She is a software engineer. ,EN,_JOB,200
-My profession is a doctor. ,EN,_JOB,200
-She works as a marketing manager. ,EN,_JOB,200
-She is a pilot. ,EN,_JOB,200
-My profession is a librarian. ,EN,_JOB,200
-I work as a financial consultant. ,EN,_JOB,200
-She is a software tester. ,EN,_JOB,200
-His job is to be a veterinarian. ,EN,_JOB,200
-My profession is a civil engineer. ,EN,_JOB,200
-I work as a content writer. ,EN,_JOB,200
-He is a marketing coordinator. ,EN,_JOB,200
-My job is to be a research scientist. ,EN,_JOB,200
-I work as a social media manager. ,EN,_JOB,200
-She is a customer service representative. ,EN,_JOB,200
-His job is to be a financial advisor. ,EN,_JOB,200
-I work as a fitness trainer. ,EN,_JOB,200
-She is an event planner. ,EN,_JOB,200
-My profession is a software architect. ,EN,_JOB,200
-I work as a product manager. ,EN,_JOB,200
-He is a business analyst. ,EN,_JOB,200
-My job is to be a fashion stylist. ,EN,_JOB,200
-I work as a physical therapist. ,EN,_JOB,200
-She is a project coordinator. ,EN,_JOB,200
-His job is to be a marketing director. ,EN,_JOB,200
-I work as a UX designer. ,EN,_JOB,200
-She is a financial controller. ,EN,_JOB,200
-My profession is a research analyst. ,EN,_JOB,200
-I work as a data scientist. ,EN,_JOB,200
-He is a mechanical engineer. ,EN,_JOB,200
-My job is to be a travel agent. ,EN,_JOB,200
-I work as a HR manager. ,EN,_JOB,200
-She is an interior designer. ,EN,_JOB,200
-His job is to be a business consultant. ,EN,_JOB,200
-I work as a software project manager. ,EN,_JOB,200
-She is a marketing specialist. ,EN,_JOB,200
-My profession is a financial planner. ,EN,_JOB,200
-I work as a customer success manager. ,EN,_JOB,200
-He is a data analyst. ,EN,_JOB,200
-My job is to be a fashion buyer. ,EN,_JOB,200
-I work as a clinical psychologist. ,EN,_JOB,200
-She is a sales manager. ,EN,_JOB,200
-His job is to be an investment banker. ,EN,_JOB,200
-I work as a software quality assurance analyst. ,EN,_JOB,200
-She is an HR coordinator. ,EN,_JOB,200
-My profession is a marketing strategist. ,EN,_JOB,200
-I work as a web developer. ,EN,_JOB,200
-He is a financial analyst. ,EN,_JOB,200
-My job is to be a fashion photographer. ,EN,_JOB,200
-I work as an event coordinator. ,EN,_JOB,200
-She is a business development manager. ,EN,_JOB,200
-His job is to be a UX researcher. ,EN,_JOB,200
-I work as a supply chain analyst. ,EN,_JOB,200
-She is a social worker. ,EN,_JOB,200
-My profession is a data engineer. ,EN,_JOB,200
-I work as a sales representative. ,EN,_JOB,200
-He is a project manager. ,EN,_JOB,200
-My job is to be a travel blogger. ,EN,_JOB,200
-I work as a marketing coordinator. ,EN,_JOB,200
-She is a financial planner. ,EN,_JOB,200
-His job is to be a software consultant. ,EN,_JOB,200
-I work as a business development coordinator. ,EN,_JOB,200
-She is a market researcher. ,EN,_JOB,200
-I work as an operations manager. ,EN,_JOB,200
-He is a financial controller. ,EN,_JOB,200
-She is a financial analyst. ,EN,_JOB,200
-I work as an HR manager. ,EN,_JOB,200
-I work as a software support specialist. ,EN,_JOB,200
-She is a business consultant. ,EN,_JOB,200
-His job is to be a financial analyst. ,EN,_JOB,200
-My profession is a graphic designer. ,EN,_JOB,200
-I work as a social media strategist. ,EN,_JOB,200
-He is a customer service manager. ,EN,_JOB,200
-My job is to be a data entry clerk. ,EN,_JOB,200
-I work as a project coordinator. ,EN,_JOB,200
-She is an HR specialist. ,EN,_JOB,200
-His job is to be a marketing executive. ,EN,_JOB,200
-I work as a software trainer. ,EN,_JOB,200
-She is an event coordinator. ,EN,_JOB,200
-My profession is a systems analyst. ,EN,_JOB,200
-I work as a product marketer. ,EN,_JOB,200
-He is a business development executive. ,EN,_JOB,200
-My job is to be a fashion blogger. ,EN,_JOB,200
-I work as a physical education teacher. ,EN,_JOB,200
-She is a project manager. ,EN,_JOB,200
-His job is to be a marketing manager. ,EN,_JOB,200
-I work as a user experience researcher. ,EN,_JOB,200
-My profession is a market analyst. ,EN,_JOB,200
-I work as a content strategist. ,EN,_JOB,200
-He is a data scientist. ,EN,_JOB,200
-My job is to be a travel consultant. ,EN,_JOB,200
-I work as an operations coordinator. ,EN,_JOB,200
-She is a fashion designer. ,EN,_JOB,200
-His job is to be a brand manager. ,EN,_JOB,200
-She is a marketing coordinator. ,EN,_JOB,200
-My profession is a financial advisor. ,EN,_JOB,200
-I work as a customer success specialist. ,EN,_JOB,200
-I work as a physical therapist assistant. ,EN,_JOB,200
-She is a sales representative. ,EN,_JOB,200
-His job is to be a digital marketing manager. ,EN,_JOB,200
-I work as a software quality assurance engineer. ,EN,_JOB,200
-She is an HR generalist. ,EN,_JOB,200
-My profession is a marketing coordinator. ,EN,_JOB,200
-I work as a web designer. ,EN,_JOB,200
-I work as an event planner. ,EN,_JOB,200
-She is a business development specialist. ,EN,_JOB,200
-I work as a supply chain manager. ,EN,_JOB,200
-I work as a sales manager. ,EN,_JOB,200
-She is a social media manager. ,EN,_JOB,200
-My profession is a data scientist. ,EN,_JOB,200
-He is a financial consultant. ,EN,_JOB,200
-I work as a software engineer ,EN,_JOB,200
-The doctor examined my condition ,EN,_JOB,200
-The chef prepared a delicious meal ,EN,_JOB,200
-The teacher explained the concept in detail ,EN,_JOB,200
-I hired a plumber to fix the leak ,EN,_JOB,200
-The police officer patrolled the streets ,EN,_JOB,200
-The architect designed a stunning building ,EN,_JOB,200
-The writer published a bestselling novel ,EN,_JOB,200
-The pilot flew the plane with precision ,EN,_JOB,200
-The mechanic repaired my car ,EN,_JOB,200
-The lawyer presented a compelling case ,EN,_JOB,200
-The accountant managed the company's finances ,EN,_JOB,200
-The artist painted a beautiful landscape ,EN,_JOB,200
-The electrician fixed the electrical wiring ,EN,_JOB,200
-The nurse cared for the patients ,EN,_JOB,200
-The scientist conducted experiments in the lab ,EN,_JOB,200
-The firefighter bravely rescued the trapped individuals ,EN,_JOB,200
-The musician played a captivating melody ,EN,_JOB,200
-The chef cooked a gourmet meal ,EN,_JOB,200
-The journalist reported on the latest news ,EN,_JOB,200
-The construction worker built the new bridge ,EN,_JOB,200
-The salesperson convinced me to buy the product ,EN,_JOB,200
-The pharmacist filled the prescription ,EN,_JOB,200
-The receptionist greeted visitors at the front desk ,EN,_JOB,200
-The farmer harvested the crops ,EN,_JOB,200
-The engineer designed a new bridge ,EN,_JOB,200
-The therapist helped me overcome my fears ,EN,_JOB,200
-The dentist examined my teeth ,EN,_JOB,200
-The chef baked a delicious cake ,EN,_JOB,200
-The actor performed on stage ,EN,_JOB,200
-The photographer captured beautiful moments ,EN,_JOB,200
-The researcher conducted a study on climate change ,EN,_JOB,200
-The flight attendant served the passengers ,EN,_JOB,200
-The coach trained the athletes ,EN,_JOB,200
-The plumber fixed the leaky faucet ,EN,_JOB,200
-The teacher inspired the students ,EN,_JOB,200
-The police officer arrested the suspect ,EN,_JOB,200
-The architect drew blueprints for the building ,EN,_JOB,200
-The writer wrote an insightful article ,EN,_JOB,200
-The pilot navigated through turbulent weather ,EN,_JOB,200
-The mechanic repaired the engine ,EN,_JOB,200
-The lawyer defended the client in court ,EN,_JOB,200
-The accountant prepared the financial statements ,EN,_JOB,200
-The artist sculpted a masterpiece ,EN,_JOB,200
-The electrician installed new light fixtures ,EN,_JOB,200
-The nurse administered medication to the patients ,EN,_JOB,200
-The scientist made a groundbreaking discovery ,EN,_JOB,200
-The firefighter extinguished the fire ,EN,_JOB,200
-The musician composed a beautiful symphony ,EN,_JOB,200
-The chef created a unique recipe ,EN,_JOB,200
-The journalist interviewed a famous celebrity ,EN,_JOB,200
-The construction worker operated heavy machinery ,EN,_JOB,200
-The salesperson closed a big deal ,EN,_JOB,200
-The pharmacist provided medication information ,EN,_JOB,200
-The receptionist answered phone calls ,EN,_JOB,200
-The farmer planted seeds in the field ,EN,_JOB,200
-The engineer developed a new technology ,EN,_JOB,200
-The therapist listened to my problems ,EN,_JOB,200
-The dentist performed a dental procedure ,EN,_JOB,200
-The chef prepared a five,EN,_JOB,200
-The actor starred in a blockbuster movie ,EN,_JOB,200
-The photographer captured stunning portraits ,EN,_JOB,200
-The researcher analyzed data for the study ,EN,_JOB,200
-The flight attendant ensured passenger safety ,EN,_JOB,200
-The coach motivated the team to win ,EN,_JOB,200
-The plumber unclogged the drain ,EN,_JOB,200
-The teacher evaluated the students' performance ,EN,_JOB,200
-The police officer investigated the crime scene ,EN,_JOB,200
-The architect visited the construction site ,EN,_JOB,200
-The writer edited the manuscript ,EN,_JOB,200
-The pilot performed a pre,EN,_JOB,200
-The mechanic diagnosed the car's problem ,EN,_JOB,200
-The lawyer negotiated a settlement ,EN,_JOB,200
-The accountant audited the financial records ,EN,_JOB,200
-The artist exhibited paintings in a gallery ,EN,_JOB,200
-The electrician fixed the faulty wiring ,EN,_JOB,200
-The nurse assisted in surgeries ,EN,_JOB,200
-The scientist presented research findings ,EN,_JOB,200
-The firefighter trained for emergency situations ,EN,_JOB,200
-The musician played a concert for a large audience ,EN,_JOB,200
-The chef garnished the dish with fresh herbs ,EN,_JOB,200
-The journalist investigated a corruption scandal ,EN,_JOB,200
-The construction worker laid bricks for the wall ,EN,_JOB,200
-The salesperson persuaded customers to make a purchase ,EN,_JOB,200
-The pharmacist dispensed medication to patients ,EN,_JOB,200
-The receptionist scheduled appointments for clients ,EN,_JOB,200
-The farmer milked the cows on the farm ,EN,_JOB,200
-The engineer designed a new software program ,EN,_JOB,200
-The therapist provided counseling services ,EN,_JOB,200
-The dentist performed a tooth extraction ,EN,_JOB,200
-The chef experimented with fusion cuisine ,EN,_JOB,200
-The actor rehearsed for the play ,EN,_JOB,200
-The photographer captured breathtaking landscapes ,EN,_JOB,200
-The researcher collected data for the experiment ,EN,_JOB,200
-The flight attendant served meals to passengers ,EN,_JOB,200
-The coach devised a winning strategy ,EN,_JOB,200
-The plumber installed a new plumbing system ,EN,_JOB,200
-The architect supervised the construction project ,EN,_JOB,200
-The writer crafted compelling stories ,EN,_JOB,200
-The pilot performed aerobatic stunts ,EN,_JOB,200
-The mechanic replaced the worn,EN,_JOB,200
-The lawyer provided legal advice to clients ,EN,_JOB,200
-The accountant analyzed financial data ,EN,_JOB,200
-The artist exhibited sculptures in an art gallery ,EN,_JOB,200
-The electrician installed a new electrical panel ,EN,_JOB,200
-The nurse assisted in the delivery of a baby ,EN,_JOB,200
-The scientist conducted research experiments ,EN,_JOB,200
-The firefighter trained for high,EN,_JOB,200
-The musician performed a solo concert ,EN,_JOB,200
-The chef catered a grand wedding reception ,EN,_JOB,200
-The journalist reported from a war zone ,EN,_JOB,200
-The construction worker operated a crane ,EN,_JOB,200
-The salesperson attended a trade show ,EN,_JOB,200
-The pharmacist provided medication counseling ,EN,_JOB,200
-The receptionist managed appointment schedules ,EN,_JOB,200
-The farmer cultivated crops on a vast field ,EN,_JOB,200
-The engineer inspected the bridge for structural integrity ,EN,_JOB,200
-The therapist guided clients through therapy sessions ,EN,_JOB,200
-The dentist performed a root canal procedure ,EN,_JOB,200
-The chef created a fusion of flavors ,EN,_JOB,200
-The actor auditioned for a lead role ,EN,_JOB,200
-The photographer documented a cultural festival ,EN,_JOB,200
-The researcher analyzed survey data ,EN,_JOB,200
-The flight attendant demonstrated safety procedures ,EN,_JOB,200
-The coach mentored young athletes ,EN,_JOB,200
-The plumber fixed a leaking pipe ,EN,_JOB,200
-The teacher organized educational field trips ,EN,_JOB,200
-The police officer patrolled the neighborhood ,EN,_JOB,200
-The architect designed sustainable buildings ,EN,_JOB,200
-The writer published articles in a renowned magazine ,EN,_JOB,200
-The pilot executed a flawless landing ,EN,_JOB,200
-The mechanic tuned up the car engine ,EN,_JOB,200
-The lawyer researched legal precedents ,EN,_JOB,200
-The accountant prepared tax documents ,EN,_JOB,200
-The artist sketched portraits of people ,EN,_JOB,200
-The electrician repaired a faulty circuit ,EN,_JOB,200
-The nurse administered vaccinations ,EN,_JOB,200
-The scientist collaborated with other researchers ,EN,_JOB,200
-The firefighter conducted fire safety drills ,EN,_JOB,200
-The musician composed a film soundtrack ,EN,_JOB,200
-The chef experimented with molecular gastronomy ,EN,_JOB,200
-The journalist wrote investigative reports ,EN,_JOB,200
-The construction worker demolished an old building ,EN,_JOB,200
-The salesperson conducted product demonstrations ,EN,_JOB,200
-The pharmacist compounded personalized medications ,EN,_JOB,200
-The receptionist greeted guests at a hotel ,EN,_JOB,200
-The farmer herded livestock on the farm ,EN,_JOB,200
-The engineer tested prototypes in a laboratory ,EN,_JOB,200
-The therapist helped clients manage anxiety ,EN,_JOB,200
-The dentist performed teeth whitening procedures ,EN,_JOB,200
-The chef sourced fresh ingredients from local markets ,EN,_JOB,200
-The actor portrayed a historical figure in a play ,EN,_JOB,200
-The photographer captured candid moments at a wedding ,EN,_JOB,200
-The researcher presented findings at a scientific conference ,EN,_JOB,200
-The flight attendant handled in,EN,_JOB,200
-The coach analyzed game strategies ,EN,_JOB,200
-The plumber installed a new water heater ,EN,_JOB,200
-The teacher mentored new educators ,EN,_JOB,200
-The police officer apprehended a suspect ,EN,_JOB,200
-The architect created innovative building designs ,EN,_JOB,200
-The writer conducted interviews for a magazine article ,EN,_JOB,200
-The pilot coordinated air traffic control communications ,EN,_JOB,200
-The mechanic diagnosed and repaired engine problems ,EN,_JOB,200
-The lawyer negotiated a contract on behalf of a client ,EN,_JOB,200
-The accountant conducted financial audits ,EN,_JOB,200
-The artist experimented with mixed media art ,EN,_JOB,200
-The electrician upgraded the electrical system ,EN,_JOB,200
-The nurse provided care in the emergency room ,EN,_JOB,200
-The scientist developed a new drug formulation ,EN,_JOB,200
-The firefighter conducted fire safety inspections ,EN,_JOB,200
-The musician taught music lessons to aspiring musicians ,EN,_JOB,200
-The chef hosted a cooking show on television ,EN,_JOB,200
-The journalist wrote feature articles for a newspaper ,EN,_JOB,200
-The construction worker installed drywall in a building ,EN,_JOB,200
-The salesperson negotiated a business contract ,EN,_JOB,200
-The athlete coached a youth sports team ,EN,_JOB,200
-The pharmacist managed a pharmacy's inventory ,EN,_JOB,200
-The receptionist handled customer inquiries at a busy office ,EN,_JOB,200
-The farmer operated heavy machinery on the farm ,EN,_JOB,200
-The engineer designed energy,EN,_JOB,200
-The therapist facilitated group therapy sessions ,EN,_JOB,200
-The dentist fitted braces on patients ,EN,_JOB,200
-The chef organized a charity cooking event ,EN,_JOB,200
-The actor performed in a Shakespearean play ,EN,_JOB,200
-The photographer captured architectural landmarks ,EN,_JOB,200
-The researcher conducted experiments in a laboratory ,EN,_JOB,200
-The flight attendant assisted passengers with special needs ,EN,_JOB,200
-The coach motivated the team to overcome challenges ,EN,_JOB,200
-The plumber repaired a burst pipe ,EN,_JOB,200
-The teacher developed a curriculum for a new course ,EN,_JOB,200
-The police officer solved a complex criminal case ,EN,_JOB,200
-The architect renovated historical buildings ,EN,_JOB,200
-The writer crafted persuasive advertising copy ,EN,_JOB,200
-The pilot conducted flight simulations ,EN,_JOB,200
-The mechanic restored vintage cars ,EN,_JOB,200
-She works as a doctor ,EN,_JOB,200
-His job is a software engineer ,EN,_JOB,200
-The company hired him as a project manager ,EN,_JOB,200
-She is a teacher at the local school ,EN,_JOB,200
-He earns a living as a lawyer ,EN,_JOB,200
-Her occupation is a nurse ,EN,_JOB,200
-He is employed as a mechanic ,EN,_JOB,200
-She works as a chef in a renowned restaurant ,EN,_JOB,200
-His job title is a financial analyst ,EN,_JOB,200
-She is a police officer serving the community ,EN,_JOB,200
-He is a firefighter saving lives ,EN,_JOB,200
-Her profession is a pharmacist ,EN,_JOB,200
-He works as an accountant in a multinational firm ,EN,_JOB,200
-She is an architect designing beautiful buildings ,EN,_JOB,200
-He is a pilot flying commercial airplanes ,EN,_JOB,200
-Her job involves being a marketing manager ,EN,_JOB,200
-He is a professional athlete playing soccer ,EN,_JOB,200
-She is a journalist reporting news ,EN,_JOB,200
-His occupation is a carpenter ,EN,_JOB,200
-She works as a receptionist at a busy hotel ,EN,_JOB,200
-He is a scientist conducting research ,EN,_JOB,200
-Her job is a fashion designer ,EN,_JOB,200
-He is a sales representative for a large company ,EN,_JOB,200
-She works as a librarian at the city library ,EN,_JOB,200
-His profession is a dentist ,EN,_JOB,200
-She is a veterinarian taking care of animals ,EN,_JOB,200
-He is a truck driver delivering goods ,EN,_JOB,200
-She works as a customer service representative ,EN,_JOB,200
-His job title is a software developer ,EN,_JOB,200
-She is an electrician repairing electrical systems ,EN,_JOB,200
-He is a plumber fixing pipes ,EN,_JOB,200
-Her occupation is a graphic designer ,EN,_JOB,200
-He works as a financial advisor ,EN,_JOB,200
-She is a professor teaching at the university ,EN,_JOB,200
-He is a CEO running a successful company ,EN,_JOB,200
-Her job involves being a human resources manager ,EN,_JOB,200
-He is an actor performing in movies ,EN,_JOB,200
-She is a singer entertaining audiences ,EN,_JOB,200
-His profession is a pharmacist ,EN,_JOB,200
-She works as a physical therapist helping patients ,EN,_JOB,200
-He is a photographer capturing moments ,EN,_JOB,200
-Her job is a social worker ,EN,_JOB,200
-He is a pilot flying private jets ,EN,_JOB,200
-She works as a translator ,EN,_JOB,200
-His occupation is a mechanic ,EN,_JOB,200
-She is a teacher at a language school ,EN,_JOB,200
-He is a lawyer specializing in criminal law ,EN,_JOB,200
-She works as a personal trainer at a fitness center ,EN,_JOB,200
-His job title is a data analyst ,EN,_JOB,200
-She is a police officer patrolling the streets ,EN,_JOB,200
-He is a firefighter extinguishing fires ,EN,_JOB,200
-Her profession is a nurse ,EN,_JOB,200
-He works as an engineer in a construction company ,EN,_JOB,200
-She is an artist creating beautiful paintings ,EN,_JOB,200
-He is a pilot flying helicopters ,EN,_JOB,200
-Her job involves being a project coordinator ,EN,_JOB,200
-He is a professional athlete playing basketball ,EN,_JOB,200
-She is a journalist writing articles ,EN,_JOB,200
-She works as a receptionist at a law firm ,EN,_JOB,200
-He is a scientist conducting experiments ,EN,_JOB,200
-Her job is a fashion model ,EN,_JOB,200
-He is a sales manager overseeing a team ,EN,_JOB,200
-His profession is a doctor ,EN,_JOB,200
-She is a veterinarian treating sick animals ,EN,_JOB,200
-He is a truck driver transporting goods ,EN,_JOB,200
-She works as a customer support specialist ,EN,_JOB,200
-His job title is a web developer ,EN,_JOB,200
-She is an architect designing skyscrapers ,EN,_JOB,200
-He is a plumber fixing plumbing issues ,EN,_JOB,200
-Her occupation is a graphic artist ,EN,_JOB,200
-He works as a financial planner ,EN,_JOB,200
-She is a professor of mathematics ,EN,_JOB,200
-He is a CEO of a technology startup ,EN,_JOB,200
-Her job involves being a marketing specialist ,EN,_JOB,200
-He is an actor starring in a Broadway play ,EN,_JOB,200
-She is a singer,EN,_JOB,200
-She works as a speech therapist helping people communicate ,EN,_JOB,200
-He is a photographer capturing weddings ,EN,_JOB,200
-Her job is a social media manager ,EN,_JOB,200
-He is a pilot flying cargo planes ,EN,_JOB,200
-She works as an interpreter ,EN,_JOB,200
-She is a teacher at an elementary school ,EN,_JOB,200
-He is a lawyer specializing in corporate law ,EN,_JOB,200
-She works as a personal assistant to a celebrity ,EN,_JOB,200
-His job title is a data scientist ,EN,_JOB,200
-She is a police detective solving crimes ,EN,_JOB,200
-He is a firefighter training new recruits ,EN,_JOB,200
-Her profession is a registered nurse ,EN,_JOB,200
-He works as a software tester ,EN,_JOB,200
-She is an interior designer creating beautiful spaces ,EN,_JOB,200
-He is a pilot flying fighter jets ,EN,_JOB,200
-Her job involves being a project manager ,EN,_JOB,200
-He is a professional athlete playing tennis ,EN,_JOB,200
-She is a journalist covering international news ,EN,_JOB,200
-She works as a travel agent helping people plan vacations ,EN,_JOB,200
-He is an engineer designing bridges ,EN,_JOB,200
-Her job is a fashion stylist ,EN,_JOB,200
-He is a salesperson working in retail ,EN,_JOB,200
-She works as a daycare teacher ,EN,_JOB,200
-He is a truck driver delivering groceries ,EN,_JOB,200
-She works as a software engineer ,EN,_JOB,200
-His job title is a marketing director ,EN,_JOB,200
-She is a flight attendant serving passengers ,EN,_JOB,200
-He is a carpenter building furniture ,EN,_JOB,200
-Her occupation is a yoga instructor ,EN,_JOB,200
-He works as a financial consultant ,EN,_JOB,200
-She is a professor of literature ,EN,_JOB,200
-He is a CEO of a financial company ,EN,_JOB,200
-Her job involves being a public relations manager ,EN,_JOB,200
-He is a musician playing the guitar ,EN,_JOB,200
-She is a dancer performing on stage ,EN,_JOB,200
-She works as a physical education teacher ,EN,_JOB,200
-He is an architect designing sustainable buildings ,EN,_JOB,200
-Her job is a makeup artist ,EN,_JOB,200
-He is a sales executive in the automotive industry ,EN,_JOB,200
-She works as a museum curator ,EN,_JOB,200
-His occupation is a veterinarian ,EN,_JOB,200
-She is a teacher at a special needs school ,EN,_JOB,200
-He is a lawyer specializing in intellectual property law ,EN,_JOB,200
-She works as a personal stylist ,EN,_JOB,200
-His job title is a data engineer ,EN,_JOB,200
-She is a police detective investigating crimes ,EN,_JOB,200
-He is a firefighter training for emergency situations ,EN,_JOB,200
-Her profession is a registered dietitian ,EN,_JOB,200
-He works as a software architect ,EN,_JOB,200
-She is a fashion blogger ,EN,_JOB,200
-He is a pilot flying seaplanes ,EN,_JOB,200
-He is a professional athlete playing golf ,EN,_JOB,200
-She is a journalist reporting on environmental issues ,EN,_JOB,200
-His occupation is a blacksmith ,EN,_JOB,200
-She works as a travel photographer ,EN,_JOB,200
-He is a psychologist counseling patients ,EN,_JOB,200
-He is a pilot flying gliders ,EN,_JOB,200
-She works as a tour guide ,EN,_JOB,200
-His profession is a mechanic ,EN,_JOB,200
-She is a teacher at a music academy ,EN,_JOB,200
-He is a lawyer specializing in immigration law ,EN,_JOB,200
-She works as a fashion buyer ,EN,_JOB,200
-His job title is a cybersecurity analyst ,EN,_JOB,200
-She is a police officer working in a K,EN,_JOB,200
-He is a firefighter rescuing people from burning buildings ,EN,_JOB,200
-Her occupation is a registered nurse ,EN,_JOB,200
-He works as a systems administrator ,EN,_JOB,200
-She is a fashion designer creating couture dresses ,EN,_JOB,200
-He is a pilot flying cargo helicopters ,EN,_JOB,200
-Her job involves being an event planner ,EN,_JOB,200
-He is a professional athlete playing baseball ,EN,_JOB,200
-She is a journalist covering sports news ,EN,_JOB,200
-His profession is a baker ,EN,_JOB,200
-She works as a wildlife biologist ,EN,_JOB,200
-He is a photographer specializing in wildlife photography ,EN,_JOB,200
-He is a pilot flying air ambulances ,EN,_JOB,200
-She works as a voice actor ,EN,_JOB,200
-His occupation is a hairstylist ,EN,_JOB,200
-She is a teacher at a high school ,EN,_JOB,200
-He is a lawyer specializing in family law ,EN,_JOB,200
-She works as a wedding planner ,EN,_JOB,200
-His job title is a network administrator ,EN,_JOB,200
-He is a firefighter inspecting fire safety measures ,EN,_JOB,200
-Her profession is a physical therapist ,EN,_JOB,200
-He works as a software quality assurance analyst ,EN,_JOB,200
-He is a pilot flying hot air balloons ,EN,_JOB,200
-Her job involves being a research scientist ,EN,_JOB,200
-He is a professional athlete playing hockey ,EN,_JOB,200
-She is a journalist covering entertainment news ,EN,_JOB,200
-His occupation is a chef ,EN,_JOB,200
-She works as a speech pathologist ,EN,_JOB,200
-He is a wildlife photographer capturing images of exotic animals ,EN,_JOB,200
-Her job is a community outreach coordinator ,EN,_JOB,200
-She works as a wedding photographer ,EN,_JOB,200
-His profession is a locksmith ,EN,_JOB,200
-She is a teacher at a language institute ,EN,_JOB,200
-He is a lawyer specializing in environmental law ,EN,_JOB,200
-She works as a fashion stylist for celebrities ,EN,_JOB,200
-His job title is a database administrator ,EN,_JOB,200
-She is a police officer patrolling the beach ,EN,_JOB,200
-He is a firefighter conducting fire safety training ,EN,_JOB,200
-Her occupation is a speech therapist ,EN,_JOB,200
-She is a fashion illustrator creating stunning sketches ,EN,_JOB,200
-He is a pilot flying military aircraft ,EN,_JOB,200
-Her job involves being a program manager ,EN,_JOB,200
-He is a professional athlete playing cricket ,EN,_JOB,200
-She is a journalist investigating corruption ,EN,_JOB,200
-His profession is a barista ,EN,_JOB,200
-She works as a social media manager ,EN,_JOB,200
-He is a software programmer ,EN,_JOB,200
-Her job is a wedding planner ,EN,_JOB,200
-He is a sales representative for a pharmaceutical company ,EN,_JOB,200
-She works as a dog trainer ,EN,_JOB,200
-His profession is a surgeon ,EN,_JOB,200
-She is a marine biologist studying ocean ecosystems ,EN,_JOB,200
-He is a delivery driver for a courier service ,EN,_JOB,200
-She works as a data scientist ,EN,_JOB,200
-His job title is a financial planner ,EN,_JOB,200
-She is a professional soccer player ,EN,_JOB,200
-He is a construction worker ,EN,_JOB,200
-Her occupation is a personal fitness trainer ,EN,_JOB,200
-He works as a business analyst ,EN,_JOB,200
-She is a music teacher at a conservatory ,EN,_JOB,200
-He is a CEO of a tech startup ,EN,_JOB,200
-Her job involves being a social media manager ,EN,_JOB,200
-He is a professional musician playing the violin ,EN,_JOB,200
-She is a fashion designer creating sustainable clothing ,EN,_JOB,200
-She works as a sports coach ,EN,_JOB,200
-He is a landscape architect designing parks and gardens ,EN,_JOB,200
-Her job is a professional photographer ,EN,_JOB,200
-He is a sales manager for a telecommunications company ,EN,_JOB,200
-She is a teacher at a performing arts school ,EN,_JOB,200
-He is a lawyer specializing in personal injury law ,EN,_JOB,200
-She works as a fashion buyer for a retail chain ,EN,_JOB,200
-His job title is a software tester ,EN,_JOB,200
-She is a police officer in a K,EN,_JOB,200
-He is a firefighter training for search and rescue missions ,EN,_JOB,200
-He works as a systems engineer ,EN,_JOB,200
-She is a journalist covering health and wellness topics ,EN,_JOB,200
-She works as a speech,EN,_JOB,200
-He is a wildlife photographer capturing images of endangered species ,EN,_JOB,200
-Her job is a social media strategist ,EN,_JOB,200
-He is a pilot flying commercial airliners ,EN,_JOB,200
-She works as a travel writer ,EN,_JOB,200
-His profession is an automotive mechanic ,EN,_JOB,200
-She is a teacher at a Montessori school ,EN,_JOB,200
-She works as a fashion stylist for photo shoots ,EN,_JOB,200
-She is a police detective investigating major crimes ,EN,_JOB,200
-He is a firefighter conducting fire safety inspections ,EN,_JOB,200
-Her occupation is a physical therapist ,EN,_JOB,200
-He works as a software engineer ,EN,_JOB,200
-Her job involves being a product manager ,EN,_JOB,200
-She is a journalist covering political news ,EN,_JOB,200
-His profession is a carpenter ,EN,_JOB,200
-She works as a marketing manager ,EN,_JOB,200
-He is a photographer specializing in portrait photography ,EN,_JOB,200
-She works as a freelance writer ,EN,_JOB,200
-His occupation is an electrician ,EN,_JOB,200
-He is a lawyer specializing in criminal defense ,EN,_JOB,200
-She works as a fashion blogger ,EN,_JOB,200
-She is a police officer patrolling the city streets ,EN,_JOB,200
-He works as a software developer ,EN,_JOB,200
-She is a fashion illustrator creating fashion sketches ,EN,_JOB,200
-He is a pilot flying commercial planes ,EN,_JOB,200
-She is a journalist reporting on current events ,EN,_JOB,200
-His occupation is a plumber ,EN,_JOB,200
-She works as a public relations specialist ,EN,_JOB,200
-Her job is a community manager ,EN,_JOB,200
-He is a pilot flying military helicopters ,EN,_JOB,200
-She works as a fashion stylist for editorial shoots ,EN,_JOB,200
-She is a teacher at a preschool ,EN,_JOB,200
-He is a lawyer specializing in civil rights law ,EN,_JOB,200
-She is a police officer investigating cybercrimes ,EN,_JOB,200
-Her occupation is a physical education teacher ,EN,_JOB,200
-He works as a UX designer ,EN,_JOB,200
-She is a fashion designer creating avant,EN,_JOB,200
-Her job involves being a program coordinator ,EN,_JOB,200
-She is a journalist covering international affairs ,EN,_JOB,200
-His profession is a chef ,EN,_JOB,200
-She works as a social media strategist ,EN,_JOB,200
-He is a graphic designer creating visually appealing designs ,EN,_JOB,200
-Her job is a talent agent representing actors and musicians ,EN,_JOB,200
-He is a sales engineer for a technology company ,EN,_JOB,200
-She works as a wildlife conservation biologist ,EN,_JOB,200
-His profession is a financial analyst ,EN,_JOB,200
-She is a software tester finding and reporting bugs ,EN,_JOB,200
-He is a delivery person for an online grocery service ,EN,_JOB,200
-She works as a user experience researcher ,EN,_JOB,200
-His job title is a project manager ,EN,_JOB,200
-She is a professional ballet dancer ,EN,_JOB,200
-He is a plumber fixing and installing pipes ,EN,_JOB,200
-Her occupation is a life coach ,EN,_JOB,200
-He works as a data analyst ,EN,_JOB,200
-She is a vocal coach training singers ,EN,_JOB,200
-He is a CEO of a fashion company ,EN,_JOB,200
-He is a professional drummer performing in bands ,EN,_JOB,200
-She is a fashion stylist for photo shoots and fashion shows ,EN,_JOB,200
-His profession is a veterinarian ,EN,_JOB,200
-She works as a nutritionist ,EN,_JOB,200
-He is a civil engineer designing infrastructure projects ,EN,_JOB,200
-He is a sales representative for a software company ,EN,_JOB,200
-She works as a wildlife photographer ,EN,_JOB,200
-His occupation is a physical therapist ,EN,_JOB,200
-She is a teacher at an international school ,EN,_JOB,200
-She works as a fashion merchandiser ,EN,_JOB,200
-She is a police officer in a narcotics unit ,EN,_JOB,200
-Her job involves being a marketing coordinator ,EN,_JOB,200
-She is a journalist covering technology news ,EN,_JOB,200
-She works as a speech therapist ,EN,_JOB,200
-She works as a travel blogger ,EN,_JOB,200
-She works as a fashion designer ,EN,_JOB,200
-His job title is a cybersecurity specialist ,EN,_JOB,200
-She works as a public relations manager ,EN,_JOB,200
-He is a wildlife biologist studying animal behavior ,EN,_JOB,200
-He is a pilot flying commercial flights ,EN,_JOB,200
-She works as a fashion photographer ,EN,_JOB,200
-His occupation is a barber ,EN,_JOB,200
-His job title is a network engineer ,EN,_JOB,200
-She is a police officer patrolling the city ,EN,_JOB,200
-He is a firefighter conducting fire safety drills ,EN,_JOB,200
-Her profession is a physical therapist assistant ,EN,_JOB,200
-He works as a web developer ,EN,_JOB,200
-Her job involves being a marketing strategist ,EN,_JOB,200
-She is a journalist covering fashion and beauty ,EN,_JOB,200
-His occupation is a baker ,EN,_JOB,200
-She works as a social media coordinator ,EN,_JOB,200
-Her job is an event planner ,EN,_JOB,200
-She works as a fashion stylist for editorials ,EN,_JOB,200
-His profession is an architect ,EN,_JOB,200
-She is a teacher at a special education school ,EN,_JOB,200
-He is a lawyer specializing in employment law ,EN,_JOB,200
-His job title is a software architect ,EN,_JOB,200
-She is a police officer assigned to community policing ,EN,_JOB,200
-He is a firefighter providing emergency medical services ,EN,_JOB,200
-She is a fashion designer creating haute couture designs ,EN,_JOB,200
-Her job involves being a program director ,EN,_JOB,200
-She is a journalist covering sports events ,EN,_JOB,200
-He is a software engineer specializing in artificial intelligence ,EN,_JOB,200
-He works as a financial advisor helping clients with investment strategies ,EN,_JOB,200
-His profession is an investment banker ,EN,_JOB,200
-She is a quality assurance analyst testing software applications ,EN,_JOB,200
-He is a courier delivering packages and documents ,EN,_JOB,200
-She works as a user interface designer ,EN,_JOB,200
-She is a professional figure skater ,EN,_JOB,200
-He is a carpenter specializing in custom furniture design ,EN,_JOB,200
-Her occupation is a career counselor ,EN,_JOB,200
-He works as a business intelligence analyst ,EN,_JOB,200
-She is a vocal artist recording songs for movies and commercials ,EN,_JOB,200
-He is a CEO of a pharmaceutical company ,EN,_JOB,200
-He is a professional guitarist performing in bands ,EN,_JOB,200
-She is a fashion buyer for a luxury department store ,EN,_JOB,200
-She works as a personal trainer ,EN,_JOB,200
-He is a landscape designer creating beautiful outdoor spaces ,EN,_JOB,200
-Her job is a digital marketing specialist ,EN,_JOB,200
-He is a sales manager for a software development company ,EN,_JOB,200
-She works as a wildlife biologist studying animal populations ,EN,_JOB,200
-His occupation is a massage therapist ,EN,_JOB,200
-She works as a fashion consultant ,EN,_JOB,200
-She is a police officer in a traffic enforcement unit ,EN,_JOB,200
-He is a firefighter training for hazardous material incidents ,EN,_JOB,200
-Her profession is a pediatric nurse ,EN,_JOB,200
-She is a fashion stylist for editorial photo shoots ,EN,_JOB,200
-Her job involves being a marketing analyst ,EN,_JOB,200
-He is a professional athlete playing football ,EN,_JOB,200
-She is a journalist reporting on entertainment news ,EN,_JOB,200
-His occupation is a baker specializing in artisan breads ,EN,_JOB,200
-He is a wildlife photographer capturing images of rare species ,EN,_JOB,200
-Her job is a social media manager for a fashion brand ,EN,_JOB,200
-His profession is an electrician ,EN,_JOB,200
-She is a teacher at a music school ,EN,_JOB,200
-He is a lawyer specializing in corporate litigation ,EN,_JOB,200
-She works as a fashion editor for a magazine ,EN,_JOB,200
-She is a police detective investigating white,EN,_JOB,200
-Her occupation is a physical education instructor ,EN,_JOB,200
-He is a pilot flying cargo aircraft ,EN,_JOB,200
-He is a data engineer building data pipelines ,EN,_JOB,200
-Her job is a fashion consultant for high,EN,_JOB,200
-He works as a marketing strategist developing brand campaigns ,EN,_JOB,200
-She is a marine biologist studying marine ecosystems ,EN,_JOB,200
-His profession is a financial planner ,EN,_JOB,200
-She is a software quality assurance engineer ,EN,_JOB,200
-He is a bike courier delivering packages in the city ,EN,_JOB,200
-She works as a user experience designer ,EN,_JOB,200
-His job title is a human resources manager ,EN,_JOB,200
-He is an interior designer creating functional and aesthetic spaces ,EN,_JOB,200
-Her occupation is a life coach and motivational speaker ,EN,_JOB,200
-He works as a business analyst analyzing market trends ,EN,_JOB,200
-She is a voiceover artist lending her voice to commercials and animations ,EN,_JOB,200
-Her job involves being a social media strategist ,EN,_JOB,200
-He is a professional violinist performing in orchestras ,EN,_JOB,200
-She is a fashion stylist for red carpet events ,EN,_JOB,200
-She works as a yoga instructor ,EN,_JOB,200
-He is a landscape architect designing outdoor spaces ,EN,_JOB,200
-He is a sales executive for a pharmaceutical company ,EN,_JOB,200
-His occupation is a personal trainer ,EN,_JOB,200
-She is a teacher at a middle school ,EN,_JOB,200
-His job title is a systems administrator ,EN,_JOB,200
-Her profession is a nurse practitioner ,EN,_JOB,200
-He works as a front,EN,_JOB,200
-He is a pilot flying private planes ,EN,_JOB,200
-He is a wildlife photographer capturing breathtaking images of nature ,EN,_JOB,200
-Her job is a social media strategist for a fashion brand ,EN,_JOB,200
-She works as a fashion stylist for music videos ,EN,_JOB,200
-She is a police detective investigating cybercrimes ,EN,_JOB,200
-He is a data scientist conducting data analysis ,EN,_JOB,200
-Her job is a fashion buyer for a luxury boutique ,EN,_JOB,200
-He works as a digital marketer optimizing online campaigns ,EN,_JOB,200
-She is a marine ecologist studying coral reef ecosystems ,EN,_JOB,200
-His profession is an investment analyst ,EN,_JOB,200
-She is a software developer specializing in mobile applications ,EN,_JOB,200
-He is a food delivery driver for a popular restaurant ,EN,_JOB,200
-She works as a graphic designer creating visual identities ,EN,_JOB,200
-She is a professional golfer competing in tournaments ,EN,_JOB,200
-Her occupation is a nutritionist helping clients improve their diets ,EN,_JOB,200
-He works as a market researcher analyzing consumer behavior ,EN,_JOB,200
-She is a voice actor providing voices for animated characters ,EN,_JOB,200
-He is a CEO of a fashion startup ,EN,_JOB,200
-Her job involves being a social media coordinator ,EN,_JOB,200
-He is a professional drummer performing with a band ,EN,_JOB,200
-She is a fashion blogger and stylist ,EN,_JOB,200
-She works as a fitness instructor leading exercise classes ,EN,_JOB,200
-He is a landscape painter capturing natural landscapes on canvas ,EN,_JOB,200
-His occupation is a personal chef ,EN,_JOB,200
-He is a lawyer specializing in intellectual property rights ,EN,_JOB,200
-He is a firefighter training for hazardous materials response ,EN,_JOB,200
-Her profession is a nurse midwife ,EN,_JOB,200
-She is a fashion influencer and model ,EN,_JOB,200
-He is a pilot flying commercial helicopters ,EN,_JOB,200
-She is a journalist covering environmental issues ,EN,_JOB,200
-His occupation is a tattoo artist ,EN,_JOB,200
-She works as a public relations manager for a tech company ,EN,_JOB,200
-He is a wildlife biologist studying animal conservation ,EN,_JOB,200
-Her job is a social media strategist for a beauty brand ,EN,_JOB,200
-His profession is a mechanic specializing in luxury cars ,EN,_JOB,200
-She is a teacher at a dance studio ,EN,_JOB,200
-He is a lawyer specializing in immigration and nationality law ,EN,_JOB,200
-She works as a fashion editor for an online magazine ,EN,_JOB,200
-Her occupation is a speech pathologist ,EN,_JOB,200
-He works as a UI designer creating intuitive user interfaces ,EN,_JOB,200
-She is a fashion designer creating sustainable fashion collections ,EN,_JOB,200
-He is a pilot flying cargo jets ,EN,_JOB,200
-His profession is a chef de cuisine at a renowned restaurant ,EN,_JOB,200
-She works as a social media strategist for a nonprofit organization ,EN,_JOB,200
-He is a wildlife photographer capturing rare animal species ,EN,_JOB,200
-Her job is an event coordinator ,EN,_JOB,200
-He is a pilot flying military transport planes ,EN,_JOB,200
-She works as a fashion stylist for music artists ,EN,_JOB,200
-His occupation is a locksmith ,EN,_JOB,200
-She works as a fashion blogger and influencer ,EN,_JOB,200
-She is a police officer assigned to a canine unit ,EN,_JOB,200
-Her profession is a physical therapy assistant ,EN,_JOB,200
-He works as a front,EN,_JOB,200
-She is a journalist covering technology and innovation ,EN,_JOB,200
-His occupation is a florist ,EN,_JOB,200
-She works as a social media strategist for a fashion brand ,EN,_JOB,200
-He is a wildlife conservation researcher ,EN,_JOB,200
-Her job is a talent agent ,EN,_JOB,200
-He is a pilot flying military fighter jets ,EN,_JOB,200
-She works as a fashion stylist for magazine editorials ,EN,_JOB,200
-His profession is a civil engineer ,EN,_JOB,200
-She works as a fashion blogger and content creator ,EN,_JOB,200
-His job title is a systems analyst ,EN,_JOB,200
-She is a police officer assigned to a traffic division ,EN,_JOB,200
-He is a firefighter performing search and rescue operations ,EN,_JOB,200
-She is a fashion designer creating sustainable and ethical clothing ,EN,_JOB,200
-She is a journalist covering fashion and lifestyle topics ,EN,_JOB,200
-She works as a social media manager for a beauty brand ,EN,_JOB,200
-He is a data analyst analyzing market trends ,EN,_JOB,200
-Her job is a fashion stylist for celebrity red carpet events ,EN,_JOB,200
-He works as a business consultant advising companies on growth strategies ,EN,_JOB,200
-She is a marine researcher studying coral bleaching ,EN,_JOB,200
-His profession is a financial advisor ,EN,_JOB,200
-She is a software engineer developing mobile applications ,EN,_JOB,200
-He is a delivery driver for an online grocery service ,EN,_JOB,200
-She works as a UI/UX designer creating intuitive user interfaces ,EN,_JOB,200
-His job title is a human resources coordinator ,EN,_JOB,200
-She is a professional dancer performing in a renowned ballet company ,EN,_JOB,200
-He is an urban planner designing sustainable cities ,EN,_JOB,200
-Her occupation is a career counselor helping individuals find their ideal jobs ,EN,_JOB,200
-He works as a marketing manager overseeing advertising campaigns ,EN,_JOB,200
-She is a voice coach training singers for performances ,EN,_JOB,200
-He is a CEO of a multinational corporation ,EN,_JOB,200
-He is a professional guitarist playing in a rock band ,EN,_JOB,200
-She is a fashion editor for a high,EN,_JOB,200
-His profession is a pharmacist specializing in clinical pharmacy ,EN,_JOB,200
-She works as a personal trainer helping clients achieve their fitness goals ,EN,_JOB,200
-Her job is a content strategist for a digital marketing agency ,EN,_JOB,200
-He is a sales manager for a technology company ,EN,_JOB,200
-She works as a zoology researcher studying animal behavior ,EN,_JOB,200
-His occupation is a financial analyst ,EN,_JOB,200
-She works as a fashion photographer for magazine editorials ,EN,_JOB,200
-She is a police officer in a community outreach program ,EN,_JOB,200
-He is a firefighter conducting fire safety training for schools ,EN,_JOB,200
-He works as a backend developer ,EN,_JOB,200
-He is a pilot flying passenger planes ,EN,_JOB,200
-His occupation is a hairstylist specializing in bridal hair ,EN,_JOB,200
-She works as a social media strategist for a fitness brand ,EN,_JOB,200
-Her job is a social media manager for a travel agency ,EN,_JOB,200
-He is a pilot flying private jets for celebrities ,EN,_JOB,200
-She works as a travel blogger and photographer ,EN,_JOB,200
-She is a teacher at a culinary school ,EN,_JOB,200
-She works as a fashion stylist for runway shows ,EN,_JOB,200
-She is a police detective solving complex criminal cases ,EN,_JOB,200
-He is a firefighter providing fire safety education to the community ,EN,_JOB,200
-He works as a front,EN,_JOB,200
-She is a fashion designer creating sustainable and inclusive clothing ,EN,_JOB,200
-He is a pilot flying private helicopters ,EN,_JOB,200
-His profession is a barista at a specialty coffee shop ,EN,_JOB,200
-She works as a social media manager for a fashion e,EN,_JOB,200
-He is a wildlife photographer documenting endangered species ,EN,_JOB,200
-Her job is an event organizer ,EN,_JOB,200
-He is a pilot flying military transport aircraft ,EN,_JOB,200
-His occupation is a carpenter specializing in custom furniture ,EN,_JOB,200
-She works as a fashion blogger and YouTuber ,EN,_JOB,200
-His job title is a software engineer ,EN,_JOB,200
-She is a police officer assigned to a detective unit ,EN,_JOB,200
-Her profession is a physical therapist aide ,EN,_JOB,200
-He works as a data engineer ,EN,_JOB,200
-She is a fashion stylist for magazine photo shoots ,EN,_JOB,200
-Her job involves being a market researcher ,EN,_JOB,200
-His occupation is a florist specializing in wedding arrangements ,EN,_JOB,200
-She works as a social media strategist for a tech startup ,EN,_JOB,200
-He is a wildlife rehabilitator ,EN,_JOB,200
-He is a pilot flying military transport helicopters ,EN,_JOB,200
-She works as a fashion stylist for music festivals ,EN,_JOB,200
-His profession is a civil engineer specializing in structural design ,EN,_JOB,200
-She is a teacher at a yoga studio ,EN,_JOB,200
-She works as a fashion blogger and fashion consultant ,EN,_JOB,200
-She is a police officer assigned to a narcotics division ,EN,_JOB,200
-He is a firefighter performing water rescues ,EN,_JOB,200
-Her occupation is a physical therapist assistant ,EN,_JOB,200
-She is a fashion designer creating sustainable swimwear ,EN,_JOB,200
-She is a journalist covering fashion trends ,EN,_JOB,200
-His profession is a baker specializing in artisan bread ,EN,_JOB,200
-She works as a social media manager for a beauty influencer ,EN,_JOB,200
-He is a market researcher analyzing consumer behavior ,EN,_JOB,200
-Her job is a fashion buyer selecting merchandise for a retail store ,EN,_JOB,200
-He works as a project manager overseeing construction projects ,EN,_JOB,200
-His profession is a stockbroker ,EN,_JOB,200
-She is a graphic designer creating visual identities for brands ,EN,_JOB,200
-He is a truck driver delivering goods across the country ,EN,_JOB,200
-She works as a product manager for a software company ,EN,_JOB,200
-His job title is a logistics coordinator ,EN,_JOB,200
-She is a professional ballet dancer performing in a ballet company ,EN,_JOB,200
-Her occupation is a life coach helping individuals achieve personal goals ,EN,_JOB,200
-He works as a financial analyst evaluating investment opportunities ,EN,_JOB,200
-He is a CFO of a multinational corporation ,EN,_JOB,200
-Her job involves being a social media content creator ,EN,_JOB,200
-He is a professional drummer playing in a jazz band ,EN,_JOB,200
-She is a food critic writing restaurant reviews ,EN,_JOB,200
-His profession is a veterinarian specializing in exotic animals ,EN,_JOB,200
-She works as a yoga instructor teaching classes and workshops ,EN,_JOB,200
-He is a landscape architect designing public parks and gardens ,EN,_JOB,200
-Her job is a digital marketer managing online advertising campaigns ,EN,_JOB,200
-She works as a marine conservationist protecting marine wildlife ,EN,_JOB,200
-His occupation is a data entry clerk ,EN,_JOB,200
-She is a teacher at an art school ,EN,_JOB,200
-She works as a fashion illustrator creating fashion illustrations ,EN,_JOB,200
-She is a police officer in a community policing unit ,EN,_JOB,200
-Her profession is a speech,EN,_JOB,200
-She is a fashion blogger and style influencer ,EN,_JOB,200
-Her job involves being a market analyst ,EN,_JOB,200
-His occupation is a landscape designer ,EN,_JOB,200
-She works as a social media strategist for a travel brand ,EN,_JOB,200
-He is a wildlife biologist studying animal populations ,EN,_JOB,200
-Her job is a talent manager for actors and actresses ,EN,_JOB,200
-She works as a travel writer exploring different destinations ,EN,_JOB,200
-She works as a fashion stylist for red carpet events ,EN,_JOB,200
-She is a police officer in a canine unit ,EN,_JOB,200
-Her occupation is a occupational therapist ,EN,_JOB,200
-She is a fashion designer creating bridal gowns ,EN,_JOB,200
-His profession is a chef specializing in French cuisine ,EN,_JOB,200
-She works as a social media manager for a wellness brand ,EN,_JOB,200
-He is a wildlife filmmaker documenting animal behavior ,EN,_JOB,200
-Her job is a casting director for a film production company ,EN,_JOB,200
-She works as a fashion stylist for editorial photo shoots ,EN,_JOB,200
-His occupation is a plumber specializing in residential plumbing ,EN,_JOB,200
-She is a teacher at a dance academy ,EN,_JOB,200
-She works as a fashion blogger and style consultant ,EN,_JOB,200
-She is a police officer assigned to a traffic unit ,EN,_JOB,200
-Her profession is a speech therapist ,EN,_JOB,200
-He works as a UI designer ,EN,_JOB,200
-She is a fashion stylist for music videos and concerts ,EN,_JOB,200
-His occupation is a florist specializing in event floral arrangements ,EN,_JOB,200
-He is a wildlife conservation photographer ,EN,_JOB,200
-Her job is a casting agent for a talent agency ,EN,_JOB,200
-He is a pilot flying cargo planes for a logistics company ,EN,_JOB,200
-She works as a fashion stylist for music concerts ,EN,_JOB,200
-His profession is a mechanical engineer specializing in robotics ,EN,_JOB,200
-She is a teacher at a fitness studio ,EN,_JOB,200
-She works as a fashion blogger and personal stylist ,EN,_JOB,200
-She is a police officer assigned to a community relations unit ,EN,_JOB,200
-He is a firefighter conducting fire safety workshops for schools ,EN,_JOB,200
-Her occupation is a dental hygienist ,EN,_JOB,200
-He works as a UX researcher ,EN,_JOB,200
-She is a fashion designer creating sustainable clothing lines ,EN,_JOB,200
-He is a pilot flying private jets for business executives ,EN,_JOB,200
-Her job involves being an event coordinator ,EN,_JOB,200
-He is a professional athlete playing rugby ,EN,_JOB,200
-She is a journalist covering lifestyle and culture topics ,EN,_JOB,200
-His profession is a tattoo artist ,EN,_JOB,200
-She works as a social media manager for a fashion influencer ,EN,_JOB,200
-He is a market analyst conducting market research ,EN,_JOB,200
-Her job is a fashion stylist for editorial photo shoots ,EN,_JOB,200
-He works as a software engineer developing mobile applications ,EN,_JOB,200
-She is a marine biologist studying coral reef ecosystems ,EN,_JOB,200
-She is a UX/UI designer creating intuitive user interfaces ,EN,_JOB,200
-He is a truck mechanic repairing and maintaining commercial vehicles ,EN,_JOB,200
-She works as a project coordinator for a nonprofit organization ,EN,_JOB,200
-His job title is a supply chain manager ,EN,_JOB,200
-She is a professional tennis player competing in international tournaments ,EN,_JOB,200
-He is an interior designer creating functional and stylish spaces ,EN,_JOB,200
-Her occupation is a nutritionist helping clients achieve their health goals ,EN,_JOB,200
-He works as a data analyst analyzing large datasets ,EN,_JOB,200
-She is a voice coach training aspiring singers ,EN,_JOB,200
-He is a professional cyclist competing in road races ,EN,_JOB,200
-She is a journalist covering political events ,EN,_JOB,200
-His profession is a chef specializing in Asian cuisine ,EN,_JOB,200
-She works as a personal trainer helping clients reach their fitness goals ,EN,_JOB,200
-Her job is a digital content creator for a lifestyle brand ,EN,_JOB,200
-He works as a sales manager for a manufacturing company ,EN,_JOB,200
-She is a wildlife conservationist protecting endangered species ,EN,_JOB,200
-His occupation is a software tester ,EN,_JOB,200
-She is a teacher at a primary school ,EN,_JOB,200
-She works as a fashion photographer capturing stunning images ,EN,_JOB,200
-She is a police officer in a special operations unit ,EN,_JOB,200
-Her profession is a physical therapist specializing in sports injuries ,EN,_JOB,200
-He works as a web developer creating responsive websites ,EN,_JOB,200
-He is a pilot flying commercial jets ,EN,_JOB,200
-Her job involves being a market strategist ,EN,_JOB,200
-He is a professional surfer riding big waves ,EN,_JOB,200
-She is a journalist covering scientific breakthroughs ,EN,_JOB,200
-His occupation is an architect specializing in sustainable design ,EN,_JOB,200
-She works as a social media manager for a fitness brand ,EN,_JOB,200
-He is a wildlife researcher studying animal behavior ,EN,_JOB,200
-Her job is a talent agent representing actors and actresses ,EN,_JOB,200
-She works as a travel blogger exploring different cultures ,EN,_JOB,200
-His profession is a mechanical engineer specializing in automotive design ,EN,_JOB,200
-She is a teacher at a cooking school ,EN,_JOB,200
-His job title is a database architect ,EN,_JOB,200
-He is a firefighter conducting fire safety training for businesses ,EN,_JOB,200
-She is a fashion designer creating streetwear collections ,EN,_JOB,200
-He is a pilot flying cargo planes for a shipping company ,EN,_JOB,200
-His profession is a florist specializing in wedding arrangements ,EN,_JOB,200
-She works as a social media strategist for a beauty brand ,EN,_JOB,200
-He is a marine geologist studying the ocean floor ,EN,_JOB,200
-Her job is a casting director for a television network ,EN,_JOB,200
-He is a pilot flying commercial airlines ,EN,_JOB,200
-His occupation is an electrician specializing in commercial wiring ,EN,_JOB,200
-She works as a fashion blogger and style influencer ,EN,_JOB,200
-His job title is a systems engineer ,EN,_JOB,200
-He is a firefighter conducting fire safety demonstrations ,EN,_JOB,200
-Her profession is a occupational therapist ,EN,_JOB,200
-He works as a data scientist ,EN,_JOB,200
-He is a pilot flying helicopters for search and rescue missions ,EN,_JOB,200
-She is a journalist covering technology trends ,EN,_JOB,200
-His occupation is a wedding planner ,EN,_JOB,200
-She works as a social media strategist for a food brand ,EN,_JOB,200
-He is a marine biologist studying whale behavior ,EN,_JOB,200
-Her job is a talent scout for a music label ,EN,_JOB,200
-He is a pilot flying cargo planes for international shipping ,EN,_JOB,200
-She works as a fashion stylist for fashion shows ,EN,_JOB,200
-His profession is a civil engineer specializing in bridge construction ,EN,_JOB,200
-She works as a fashion blogger and personal shopper ,EN,_JOB,200
-She is a police officer assigned to a community outreach program ,EN,_JOB,200
-He is a firefighter conducting fire safety education for children ,EN,_JOB,200
-She is a fashion designer creating sustainable fashion lines ,EN,_JOB,200
-He is a pilot flying private planes for wealthy individuals ,EN,_JOB,200
-She is a journalist covering travel and adventure stories ,EN,_JOB,200
-His profession is a tattoo artist specializing in realistic tattoos ,EN,_JOB,200
-She works as a social media manager for a lifestyle influencer ,EN,_JOB,200
+﻿message,language,expected_entity_type,expected_code,expected_entity_value
+I work as a software engineer. ,EN,_JOB,200, Software engineer
+Her job is to be a teacher. ,EN,_JOB,200, Teacher
+He is employed as a doctor. ,EN,_JOB,200, Doctor
+My profession is a lawyer. ,EN,_JOB,200, Lawyer
+She works as a nurse. ,EN,_JOB,200, Nurse
+He is a firefighter. ,EN,_JOB,200, Firefighter
+My job is to be a chef. ,EN,_JOB,200, Chef
+I work as a graphic designer. ,EN,_JOB,200, Graphic designer
+He is an accountant. ,EN,_JOB,200, Accountant
+She works as a sales representative. ,EN,_JOB,200, Sales representative
+My profession is a journalist. ,EN,_JOB,200, Journalist
+He is employed as an architect. ,EN,_JOB,200, Architect
+I work as a marketing manager. ,EN,_JOB,200, Marketing manager
+She is a police officer. ,EN,_JOB,200, Police officer
+His job is to be a pilot. ,EN,_JOB,200, Pilot
+I work as a financial analyst. ,EN,_JOB,200, Financial analyst
+She is a librarian. ,EN,_JOB,200, Librarian
+He is employed as a mechanic. ,EN,_JOB,200, Mechanic
+My profession is a dentist. ,EN,_JOB,200, Dentist
+I work as a software developer. ,EN,_JOB,200, Software developer
+She is a pharmacist. ,EN,_JOB,200, Pharmacist
+His job is to be a photographer. ,EN,_JOB,200, Photographer
+I work as a project manager. ,EN,_JOB,200, Project manager
+He is a construction worker. ,EN,_JOB,200, Construction worker
+My profession is a professor. ,EN,_JOB,200, Professor
+She is employed as a psychologist. ,EN,_JOB,200, Psychologist
+I work as a data analyst. ,EN,_JOB,200, Data analyst
+He is a mechanic. ,EN,_JOB,200, Mechanic
+She works as a financial advisor. ,EN,_JOB,200, Financial advisor
+My job is to be a fashion designer. ,EN,_JOB,200, Fashion designer
+I work as a teacher. ,EN,_JOB,200, Teacher
+She is a nurse. ,EN,_JOB,200, Nurse
+His job is to be a software engineer. ,EN,_JOB,200, Software engineer
+I work as a lawyer. ,EN,_JOB,200, Lawyer
+My profession is a chef. ,EN,_JOB,200, Chef
+I work as a nurse practitioner. ,EN,_JOB,200, Nurse practitioner
+She is a marketing manager. ,EN,_JOB,200, Marketing manager
+His job is to be a graphic designer. ,EN,_JOB,200, Graphic designer
+I work as a police officer. ,EN,_JOB,200, Police officer
+He is a pilot. ,EN,_JOB,200, Pilot
+My profession is an accountant. ,EN,_JOB,200, Accountant
+She works as a software developer. ,EN,_JOB,200, Software developer
+I work as a journalist. ,EN,_JOB,200, Journalist
+He is a dentist. ,EN,_JOB,200, Dentist
+She is a teacher. ,EN,_JOB,200, Teacher
+His job is to be a project manager. ,EN,_JOB,200, Project manager
+I work as a pharmacist. ,EN,_JOB,200, Pharmacist
+She is a photographer. ,EN,_JOB,200, Photographer
+My profession is a mechanic. ,EN,_JOB,200, Mechanic
+I work as a psychologist. ,EN,_JOB,200, Psychologist
+He is a lawyer. ,EN,_JOB,200, Lawyer
+She works as a data analyst. ,EN,_JOB,200, Data analyst
+His job is to be a construction worker. ,EN,_JOB,200, Construction worker
+I work as a professor. ,EN,_JOB,200, Professor
+She is a software engineer. ,EN,_JOB,200, Software engineer
+My profession is a doctor. ,EN,_JOB,200, Doctor
+She works as a marketing manager. ,EN,_JOB,200, Marketing manager
+She is a pilot. ,EN,_JOB,200, Pilot
+My profession is a librarian. ,EN,_JOB,200, Librarian
+I work as a financial consultant. ,EN,_JOB,200, Financial consultant
+She is a software tester. ,EN,_JOB,200, Software tester
+His job is to be a veterinarian. ,EN,_JOB,200, Veterinarian
+My profession is a civil engineer. ,EN,_JOB,200, Civil engineer
+I work as a content writer. ,EN,_JOB,200, Content writer
+He is a marketing coordinator. ,EN,_JOB,200, Marketing coordinator
+My job is to be a research scientist. ,EN,_JOB,200, Research scientist
+I work as a social media manager. ,EN,_JOB,200, Social media manager
+She is a customer service representative. ,EN,_JOB,200, Customer service representative
+His job is to be a financial advisor. ,EN,_JOB,200, Financial advisor
+I work as a fitness trainer. ,EN,_JOB,200, Fitness trainer
+She is an event planner. ,EN,_JOB,200, Event planner
+My profession is a software architect. ,EN,_JOB,200, Software architect
+I work as a product manager. ,EN,_JOB,200, Product manager
+He is a business analyst. ,EN,_JOB,200, Business analyst
+My job is to be a fashion stylist. ,EN,_JOB,200, Fashion stylist
+I work as a physical therapist. ,EN,_JOB,200, Physical therapist
+She is a project coordinator. ,EN,_JOB,200, Project coordinator
+His job is to be a marketing director. ,EN,_JOB,200, Marketing director
+I work as a UX designer. ,EN,_JOB,200, UX designer
+She is a financial controller. ,EN,_JOB,200, Financial controller
+My profession is a research analyst. ,EN,_JOB,200, Research analyst
+I work as a data scientist. ,EN,_JOB,200, Data scientist
+He is a mechanical engineer. ,EN,_JOB,200, Mechanical engineer
+My job is to be a travel agent. ,EN,_JOB,200, Travel agent
+I work as a HR manager. ,EN,_JOB,200, HR manager
+She is an interior designer. ,EN,_JOB,200, Interior designer
+His job is to be a business consultant. ,EN,_JOB,200, Business consultant
+I work as a software project manager. ,EN,_JOB,200, Software project manager
+She is a marketing specialist. ,EN,_JOB,200, Marketing specialist
+My profession is a financial planner. ,EN,_JOB,200, Financial planner
+They are architects. ,EN,_JOB,200, Architect
+I work as a customer success manager. ,EN,_JOB,200, Customer success manager
+He is a data analyst. ,EN,_JOB,200, Data analyst
+My job is to be a fashion buyer. ,EN,_JOB,200, Fashion buyer
+I work as a clinical psychologist. ,EN,_JOB,200, Clinical psychologist
+She is a sales manager. ,EN,_JOB,200, Sales manager
+His job is to be an investment banker. ,EN,_JOB,200, Investment banker
+I work as a software quality assurance analyst. ,EN,_JOB,200, Software quality assurance analyst
+She is an HR coordinator. ,EN,_JOB,200, HR coordinator
+My profession is a marketing strategist. ,EN,_JOB,200, Marketing strategist
+I work as a web developer. ,EN,_JOB,200, Web developer
+He is a financial analyst. ,EN,_JOB,200, Financial analyst
+My job is to be a fashion photographer. ,EN,_JOB,200, Fashion photographer
+I work as an event coordinator. ,EN,_JOB,200, Event coordinator
+She is a business development manager. ,EN,_JOB,200, Business development manager
+His job is to be a UX researcher. ,EN,_JOB,200, UX researcher
+I work as a supply chain analyst. ,EN,_JOB,200, Supply chain analyst
+She is a social worker. ,EN,_JOB,200, Social worker
+My profession is a data engineer. ,EN,_JOB,200, Data engineer
+I work as a sales representative. ,EN,_JOB,200, Sales representative
+He is a project manager. ,EN,_JOB,200, Project manager
+My job is to be a travel blogger. ,EN,_JOB,200, Travel blogger
+I work as a marketing coordinator. ,EN,_JOB,200, Marketing coordinator
+She is a financial planner. ,EN,_JOB,200, Financial planner
+His job is to be a software consultant. ,EN,_JOB,200, Software consultant
+I work as a business development coordinator. ,EN,_JOB,200, Business development coordinator
+She is a market researcher. ,EN,_JOB,200, Market researcher
+They are software engineers. ,EN,_JOB,200, Software engineer
+I work as an operations manager. ,EN,_JOB,200, Operations manager
+He is a financial controller. ,EN,_JOB,200, Financial controller
+She is a financial analyst. ,EN,_JOB,200, Financial analyst
+I work as an HR manager. ,EN,_JOB,200, HR manager
+I work as a software support specialist. ,EN,_JOB,200, Software support specialist
+She is a business consultant. ,EN,_JOB,200, Business consultant
+His job is to be a financial analyst. ,EN,_JOB,200, Financial analyst
+My profession is a graphic designer. ,EN,_JOB,200, Graphic designer
+I work as a social media strategist. ,EN,_JOB,200, Social media strategist
+He is a customer service manager. ,EN,_JOB,200, Customer service manager
+My job is to be a data entry clerk. ,EN,_JOB,200, Data entry clerk
+I work as a project coordinator. ,EN,_JOB,200, Project coordinator
+She is an HR specialist. ,EN,_JOB,200, HR specialist
+His job is to be a marketing executive. ,EN,_JOB,200, Marketing executive
+I work as a software trainer. ,EN,_JOB,200, Software trainer
+She is an event coordinator. ,EN,_JOB,200, Event coordinator
+My profession is a systems analyst. ,EN,_JOB,200, Systems analyst
+I work as a product marketer. ,EN,_JOB,200, Product marketer
+He is a business development executive. ,EN,_JOB,200, Business development executive
+My job is to be a fashion blogger. ,EN,_JOB,200, Fashion blogger
+I work as a physical education teacher. ,EN,_JOB,200, Physical education teacher
+She is a project manager. ,EN,_JOB,200, Project manager
+His job is to be a marketing manager. ,EN,_JOB,200, Marketing manager
+I work as a user experience researcher. ,EN,_JOB,200, User experience researcher
+My profession is a market analyst. ,EN,_JOB,200, Market analyst
+They are engineers. ,EN,_JOB,200, Engineer
+I work as a content strategist. ,EN,_JOB,200, Content strategist
+He is a data scientist. ,EN,_JOB,200, Data scientist
+My job is to be a travel consultant. ,EN,_JOB,200, Travel consultant
+I work as an operations coordinator. ,EN,_JOB,200, Operations coordinator
+She is a fashion designer. ,EN,_JOB,200, Fashion designer
+His job is to be a brand manager. ,EN,_JOB,200, Brand manager
+She is a marketing coordinator. ,EN,_JOB,200, Marketing coordinator
+My profession is a financial advisor. ,EN,_JOB,200, Financial advisor
+I work as a customer success specialist. ,EN,_JOB,200, Customer success specialist
+I work as a physical therapist assistant. ,EN,_JOB,200, Physical therapist assistant
+She is a sales representative. ,EN,_JOB,200, Sales representative
+His job is to be a digital marketing manager. ,EN,_JOB,200, Digital marketing manager
+I work as a software quality assurance engineer. ,EN,_JOB,200, Software quality assurance engineer
+She is an HR generalist. ,EN,_JOB,200, HR generalist
+My profession is a marketing coordinator. ,EN,_JOB,200, Marketing coordinator
+I work as a web designer. ,EN,_JOB,200, Web designer
+I work as an event planner. ,EN,_JOB,200, Event planner
+She is a business development specialist. ,EN,_JOB,200, Business development specialist
+I work as a supply chain manager. ,EN,_JOB,200, Supply chain manager
+I work as a sales manager. ,EN,_JOB,200, Sales manager
+She is a social media manager. ,EN,_JOB,200, Social media manager
+My profession is a data scientist. ,EN,_JOB,200, Data scientist
+He is a financial consultant. ,EN,_JOB,200, Financial consultant
+I work as a software engineer ,EN,_JOB,200, software engineer
+The doctor examined my condition ,EN,_JOB,200, doctor
+The chef prepared a delicious meal ,EN,_JOB,200, chef
+The teacher explained the concept in detail ,EN,_JOB,200, teacher
+I hired a plumber to fix the leak ,EN,_JOB,200, plumber
+The police officer patrolled the streets ,EN,_JOB,200, police officer
+The architect designed a stunning building ,EN,_JOB,200, architect
+The writer published a bestselling novel ,EN,_JOB,200, writer
+The pilot flew the plane with precision ,EN,_JOB,200, pilot
+The mechanic repaired my car ,EN,_JOB,200, mechanic
+The lawyer presented a compelling case ,EN,_JOB,200, lawyer
+The accountant managed the company's finances ,EN,_JOB,200, accountant
+The artist painted a beautiful landscape ,EN,_JOB,200, artist
+The electrician fixed the electrical wiring ,EN,_JOB,200, electrician
+The nurse cared for the patients ,EN,_JOB,200, nurse
+The scientist conducted experiments in the lab ,EN,_JOB,200, scientist
+The firefighter bravely rescued the trapped individuals ,EN,_JOB,200, firefighter
+The musician played a captivating melody ,EN,_JOB,200, musician
+The chef cooked a gourmet meal ,EN,_JOB,200, chef
+The journalist reported on the latest news ,EN,_JOB,200, journalist
+The construction worker built the new bridge ,EN,_JOB,200, construction worker
+The salesperson convinced me to buy the product ,EN,_JOB,200, salesperson
+The pharmacist filled the prescription ,EN,_JOB,200, pharmacist
+The receptionist greeted visitors at the front desk ,EN,_JOB,200, receptionist
+The farmer harvested the crops ,EN,_JOB,200, farmer
+The engineer designed a new bridge ,EN,_JOB,200, engineer
+The therapist helped me overcome my fears ,EN,_JOB,200, therapist
+The dentist examined my teeth ,EN,_JOB,200, dentist
+The chef baked a delicious cake ,EN,_JOB,200, chef
+The actor performed on stage ,EN,_JOB,200, actor
+The photographer captured beautiful moments ,EN,_JOB,200, photographer
+The researcher conducted a study on climate change ,EN,_JOB,200, researcher
+The flight attendant served the passengers ,EN,_JOB,200, flight attendant
+The coach trained the athletes ,EN,_JOB,200, coach
+The plumber fixed the leaky faucet ,EN,_JOB,200, plumber
+The teacher inspired the students ,EN,_JOB,200, teacher
+The police officer arrested the suspect ,EN,_JOB,200, police officer
+The architect drew blueprints for the building ,EN,_JOB,200, architect
+The writer wrote an insightful article ,EN,_JOB,200, writer
+The pilot navigated through turbulent weather ,EN,_JOB,200, pilot
+The mechanic repaired the engine ,EN,_JOB,200, mechanic
+The lawyer defended the client in court ,EN,_JOB,200, lawyer
+The accountant prepared the financial statements ,EN,_JOB,200, accountant
+The artist sculpted a masterpiece ,EN,_JOB,200, artist
+The electrician installed new light fixtures ,EN,_JOB,200, electrician
+The nurse administered medication to the patients ,EN,_JOB,200, nurse
+The scientist made a groundbreaking discovery ,EN,_JOB,200, scientist
+The firefighter extinguished the fire ,EN,_JOB,200, firefighter
+The musician composed a beautiful symphony ,EN,_JOB,200, musician
+The chef created a unique recipe ,EN,_JOB,200, chef
+The journalist interviewed a famous celebrity ,EN,_JOB,200, journalist
+The construction worker operated heavy machinery ,EN,_JOB,200, construction worker
+The salesperson closed a big deal ,EN,_JOB,200, salesperson
+The pharmacist provided medication information ,EN,_JOB,200, pharmacist
+The receptionist answered phone calls ,EN,_JOB,200, receptionist
+The farmer planted seeds in the field ,EN,_JOB,200, farmer
+The engineer developed a new technology ,EN,_JOB,200, engineer
+The therapist listened to my problems ,EN,_JOB,200, therapist
+The dentist performed a dental procedure ,EN,_JOB,200, dentist
+The actor starred in a blockbuster movie ,EN,_JOB,200, actor
+The photographer captured stunning portraits ,EN,_JOB,200, photographer
+The researcher analyzed data for the study ,EN,_JOB,200, researcher
+The flight attendant ensured passenger safety ,EN,_JOB,200, flight attendant
+The coach motivated the team to win ,EN,_JOB,200, coach
+The plumber unclogged the drain ,EN,_JOB,200, plumber
+The teacher evaluated the students' performance ,EN,_JOB,200, teacher
+The police officer investigated the crime scene ,EN,_JOB,200, police officer
+The architect visited the construction site ,EN,_JOB,200, architect
+The writer edited the manuscript ,EN,_JOB,200, writer
+The mechanic diagnosed the car's problem ,EN,_JOB,200, mechanic
+The lawyer negotiated a settlement ,EN,_JOB,200, lawyer
+The accountant audited the financial records ,EN,_JOB,200, accountant
+The artist exhibited paintings in a gallery ,EN,_JOB,200, artist
+The electrician fixed the faulty wiring ,EN,_JOB,200, electrician
+The nurse assisted in surgeries ,EN,_JOB,200, nurse
+The scientist presented research findings ,EN,_JOB,200, scientist
+The firefighter trained for emergency situations ,EN,_JOB,200, firefighter
+The musician played a concert for a large audience ,EN,_JOB,200, musician
+The chef garnished the dish with fresh herbs ,EN,_JOB,200, chef
+The journalist investigated a corruption scandal ,EN,_JOB,200, journalist
+The construction worker laid bricks for the wall ,EN,_JOB,200, construction worker
+The salesperson persuaded customers to make a purchase ,EN,_JOB,200, salesperson
+The pharmacist dispensed medication to patients ,EN,_JOB,200, pharmacist
+The receptionist scheduled appointments for clients ,EN,_JOB,200, receptionist
+The farmer milked the cows on the farm ,EN,_JOB,200, farmer
+The engineer designed a new software program ,EN,_JOB,200, engineer
+The therapist provided counseling services ,EN,_JOB,200, therapist
+The dentist performed a tooth extraction ,EN,_JOB,200, dentist
+The chef experimented with fusion cuisine ,EN,_JOB,200, chef
+The actor rehearsed for the play ,EN,_JOB,200, actor
+The photographer captured breathtaking landscapes ,EN,_JOB,200, photographer
+The researcher collected data for the experiment ,EN,_JOB,200, researcher
+The flight attendant served meals to passengers ,EN,_JOB,200, flight attendant
+The coach devised a winning strategy ,EN,_JOB,200, coach
+The plumber installed a new plumbing system ,EN,_JOB,200, plumber
+The architect supervised the construction project ,EN,_JOB,200, architect
+The writer crafted compelling stories ,EN,_JOB,200, writer
+The pilot performed aerobatic stunts ,EN,_JOB,200, pilot
+The lawyer provided legal advice to clients ,EN,_JOB,200, lawyer
+The accountant analyzed financial data ,EN,_JOB,200, accountant
+The artist exhibited sculptures in an art gallery ,EN,_JOB,200, artist
+The electrician installed a new electrical panel ,EN,_JOB,200, electrician
+The nurse assisted in the delivery of a baby ,EN,_JOB,200, nurse
+The scientist conducted research experiments ,EN,_JOB,200, scientist
+The musician performed a solo concert ,EN,_JOB,200, musician
+The chef catered a grand wedding reception ,EN,_JOB,200, chef
+The journalist reported from a war zone ,EN,_JOB,200, journalist
+The construction worker operated a crane ,EN,_JOB,200, construction worker
+The salesperson attended a trade show ,EN,_JOB,200, salesperson
+The pharmacist provided medication counseling ,EN,_JOB,200, pharmacist
+The receptionist managed appointment schedules ,EN,_JOB,200, receptionist
+The farmer cultivated crops on a vast field ,EN,_JOB,200, farmer
+The engineer inspected the bridge for structural integrity ,EN,_JOB,200, engineer
+The therapist guided clients through therapy sessions ,EN,_JOB,200, therapist
+The dentist performed a root canal procedure ,EN,_JOB,200, dentist
+The chef created a fusion of flavors ,EN,_JOB,200, chef
+The actor auditioned for a lead role ,EN,_JOB,200, actor
+The photographer documented a cultural festival ,EN,_JOB,200, photographer
+The researcher analyzed survey data ,EN,_JOB,200, researcher
+The flight attendant demonstrated safety procedures ,EN,_JOB,200, flight attendant
+The coach mentored young athletes ,EN,_JOB,200, coach
+The plumber fixed a leaking pipe ,EN,_JOB,200, plumber
+The teacher organized educational field trips ,EN,_JOB,200, teacher
+The police officer patrolled the neighborhood ,EN,_JOB,200, police officer
+The architect designed sustainable buildings ,EN,_JOB,200, architect
+The writer published articles in a renowned magazine ,EN,_JOB,200, writer
+The pilot executed a flawless landing ,EN,_JOB,200, pilot
+The mechanic tuned up the car engine ,EN,_JOB,200, mechanic
+The lawyer researched legal precedents ,EN,_JOB,200, lawyer
+The accountant prepared tax documents ,EN,_JOB,200, accountant
+The artist sketched portraits of people ,EN,_JOB,200, artist
+The electrician repaired a faulty circuit ,EN,_JOB,200, electrician
+The nurse administered vaccinations ,EN,_JOB,200, nurse
+The scientist collaborated with other researchers ,EN,_JOB,200, scientist
+The firefighter conducted fire safety drills ,EN,_JOB,200, firefighter
+The musician composed a film soundtrack ,EN,_JOB,200, musician
+The chef experimented with molecular gastronomy ,EN,_JOB,200, chef
+The journalist wrote investigative reports ,EN,_JOB,200, journalist
+The construction worker demolished an old building ,EN,_JOB,200, construction worker
+The salesperson conducted product demonstrations ,EN,_JOB,200, salesperson
+The pharmacist compounded personalized medications ,EN,_JOB,200, pharmacist
+The receptionist greeted guests at a hotel ,EN,_JOB,200, receptionist
+The farmer herded livestock on the farm ,EN,_JOB,200, farmer
+The engineer tested prototypes in a laboratory ,EN,_JOB,200, engineer
+The therapist helped clients manage anxiety ,EN,_JOB,200, therapist
+The dentist performed teeth whitening procedures ,EN,_JOB,200, dentist
+The chef sourced fresh ingredients from local markets ,EN,_JOB,200, chef
+The actor portrayed a historical figure in a play ,EN,_JOB,200, actor
+The photographer captured candid moments at a wedding ,EN,_JOB,200, photographer
+The researcher presented findings at a scientific conference ,EN,_JOB,200, researcher
+The coach analyzed game strategies ,EN,_JOB,200, coach
+The plumber installed a new water heater ,EN,_JOB,200, plumber
+The teacher mentored new educators ,EN,_JOB,200, teacher
+The police officer apprehended a suspect ,EN,_JOB,200, police officer
+The architect created innovative building designs ,EN,_JOB,200, architect
+The writer conducted interviews for a magazine article ,EN,_JOB,200, writer
+The pilot coordinated air traffic control communications ,EN,_JOB,200, pilot
+The mechanic diagnosed and repaired engine problems ,EN,_JOB,200, mechanic
+The lawyer negotiated a contract on behalf of a client ,EN,_JOB,200, lawyer
+The accountant conducted financial audits ,EN,_JOB,200, accountant
+The artist experimented with mixed media art ,EN,_JOB,200, artist
+The electrician upgraded the electrical system ,EN,_JOB,200, electrician
+The nurse provided care in the emergency room ,EN,_JOB,200, nurse
+The scientist developed a new drug formulation ,EN,_JOB,200, scientist
+The firefighter conducted fire safety inspections ,EN,_JOB,200, firefighter
+The musician taught music lessons to aspiring musicians ,EN,_JOB,200, musician
+The chef hosted a cooking show on television ,EN,_JOB,200, chef
+The journalist wrote feature articles for a newspaper ,EN,_JOB,200, journalist
+The construction worker installed drywall in a building ,EN,_JOB,200, construction worker
+The salesperson negotiated a business contract ,EN,_JOB,200, salesperson
+The athlete coached a youth sports team ,EN,_JOB,200, athlete
+The pharmacist managed a pharmacy's inventory ,EN,_JOB,200, pharmacist
+The receptionist handled customer inquiries at a busy office ,EN,_JOB,200, receptionist
+The farmer operated heavy machinery on the farm ,EN,_JOB,200, farmer
+The therapist facilitated group therapy sessions ,EN,_JOB,200, therapist
+The dentist fitted braces on patients ,EN,_JOB,200, dentist
+The chef organized a charity cooking event ,EN,_JOB,200, chef
+The actor performed in a Shakespearean play ,EN,_JOB,200, actor
+The photographer captured architectural landmarks ,EN,_JOB,200, photographer
+The researcher conducted experiments in a laboratory ,EN,_JOB,200, researcher
+The flight attendant assisted passengers with special needs ,EN,_JOB,200, flight attendant
+The coach motivated the team to overcome challenges ,EN,_JOB,200, coach
+The plumber repaired a burst pipe ,EN,_JOB,200, plumber
+The teacher developed a curriculum for a new course ,EN,_JOB,200, teacher
+The police officer solved a complex criminal case ,EN,_JOB,200, police officer
+The architect renovated historical buildings ,EN,_JOB,200, architect
+The writer crafted persuasive advertising copy ,EN,_JOB,200, writer
+The pilot conducted flight simulations ,EN,_JOB,200, pilot
+The mechanic restored vintage cars ,EN,_JOB,200, mechanic
+She works as a doctor ,EN,_JOB,200, doctor
+His job is a software engineer ,EN,_JOB,200, software engineer
+The company hired him as a project manager ,EN,_JOB,200, project manager
+She is a teacher at the local school ,EN,_JOB,200, teacher
+He earns a living as a lawyer ,EN,_JOB,200, lawyer
+Her occupation is a nurse ,EN,_JOB,200, nurse
+He is employed as a mechanic ,EN,_JOB,200, mechanic
+She works as a chef in a renowned restaurant ,EN,_JOB,200, chef
+His job title is a financial analyst ,EN,_JOB,200, financial analyst
+She is a police officer serving the community ,EN,_JOB,200, police officer
+He is a firefighter saving lives ,EN,_JOB,200, firefighter
+Her profession is a pharmacist ,EN,_JOB,200, pharmacist
+He works as an accountant in a multinational firm ,EN,_JOB,200, accountant
+She is an architect designing beautiful buildings ,EN,_JOB,200, architect
+He is a pilot flying commercial airplanes ,EN,_JOB,200, pilot
+Her job involves being a marketing manager ,EN,_JOB,200, marketing manager
+He is a professional athlete playing soccer ,EN,_JOB,200, professional athlete
+She is a journalist reporting news ,EN,_JOB,200, journalist
+His occupation is a carpenter ,EN,_JOB,200, carpenter
+She works as a receptionist at a busy hotel ,EN,_JOB,200, receptionist
+He is a scientist conducting research ,EN,_JOB,200, scientist
+Her job is a fashion designer ,EN,_JOB,200, fashion designer
+He is a sales representative for a large company ,EN,_JOB,200, sales representative
+She works as a librarian at the city library ,EN,_JOB,200, librarian
+His profession is a dentist ,EN,_JOB,200, dentist
+She is a veterinarian taking care of animals ,EN,_JOB,200, veterinarian
+He is a truck driver delivering goods ,EN,_JOB,200, truck driver
+She works as a customer service representative ,EN,_JOB,200, customer service representative
+His job title is a software developer ,EN,_JOB,200, software developer
+She is an electrician repairing electrical systems ,EN,_JOB,200, electrician
+He is a plumber fixing pipes ,EN,_JOB,200, plumber
+Her occupation is a graphic designer ,EN,_JOB,200, graphic designer
+He works as a financial advisor ,EN,_JOB,200, financial advisor
+She is a professor teaching at the university ,EN,_JOB,200, professor
+He is a CEO running a successful company ,EN,_JOB,200, CEO
+Her job involves being a human resources manager ,EN,_JOB,200, human resources manager
+He is an actor performing in movies ,EN,_JOB,200, actor
+She is a singer entertaining audiences ,EN,_JOB,200, singer
+His profession is a pharmacist ,EN,_JOB,200, pharmacist
+She works as a physical therapist helping patients ,EN,_JOB,200, physical therapist
+He is a photographer capturing moments ,EN,_JOB,200, photographer
+Her job is a social worker ,EN,_JOB,200, social worker
+He is a pilot flying private jets ,EN,_JOB,200, pilot
+She works as a translator ,EN,_JOB,200, translator
+His occupation is a mechanic ,EN,_JOB,200, mechanic
+She is a teacher at a language school ,EN,_JOB,200, teacher
+He is a lawyer specializing in criminal law ,EN,_JOB,200, lawyer
+She works as a personal trainer at a fitness center ,EN,_JOB,200, personal trainer
+His job title is a data analyst ,EN,_JOB,200, data analyst
+She is a police officer patrolling the streets ,EN,_JOB,200, police officer
+He is a firefighter extinguishing fires ,EN,_JOB,200, firefighter
+Her profession is a nurse ,EN,_JOB,200, nurse
+He works as an engineer in a construction company ,EN,_JOB,200, engineer
+She is an artist creating beautiful paintings ,EN,_JOB,200, artist
+He is a pilot flying helicopters ,EN,_JOB,200, pilot
+Her job involves being a project coordinator ,EN,_JOB,200, project coordinator
+He is a professional athlete playing basketball ,EN,_JOB,200, professional athlete
+She is a journalist writing articles ,EN,_JOB,200, journalist
+She works as a receptionist at a law firm ,EN,_JOB,200, receptionist
+He is a scientist conducting experiments ,EN,_JOB,200, scientist
+Her job is a fashion model ,EN,_JOB,200, fashion model
+He is a sales manager overseeing a team ,EN,_JOB,200, sales manager
+His profession is a doctor ,EN,_JOB,200, doctor
+She is a veterinarian treating sick animals ,EN,_JOB,200, veterinarian
+He is a truck driver transporting goods ,EN,_JOB,200, truck driver
+She works as a customer support specialist ,EN,_JOB,200, customer support specialist
+His job title is a web developer ,EN,_JOB,200, web developer
+She is an architect designing skyscrapers ,EN,_JOB,200, architect
+He is a plumber fixing plumbing issues ,EN,_JOB,200, plumber
+Her occupation is a graphic artist ,EN,_JOB,200, graphic artist
+He works as a financial planner ,EN,_JOB,200, financial planner
+She is a professor of mathematics ,EN,_JOB,200, professor
+He is a CEO of a technology startup ,EN,_JOB,200, CEO
+Her job involves being a marketing specialist ,EN,_JOB,200, marketing specialist
+He is an actor starring in a Broadway play ,EN,_JOB,200, actor
+She works as a speech therapist helping people communicate ,EN,_JOB,200, speech therapist
+He is a photographer capturing weddings ,EN,_JOB,200, photographer
+Her job is a social media manager ,EN,_JOB,200, social media manager
+He is a pilot flying cargo planes ,EN,_JOB,200, pilot
+She works as an interpreter ,EN,_JOB,200, interpreter
+She is a teacher at an elementary school ,EN,_JOB,200, teacher
+He is a lawyer specializing in corporate law ,EN,_JOB,200, lawyer
+She works as a personal assistant to a celebrity ,EN,_JOB,200, personal assistant
+His job title is a data scientist ,EN,_JOB,200, data scientist
+She is a police detective solving crimes ,EN,_JOB,200, police detective
+He is a firefighter training new recruits ,EN,_JOB,200, firefighter
+Her profession is a registered nurse ,EN,_JOB,200, registered nurse
+He works as a software tester ,EN,_JOB,200, software tester
+She is an interior designer creating beautiful spaces ,EN,_JOB,200, interior designer
+He is a pilot flying fighter jets ,EN,_JOB,200, pilot
+Her job involves being a project manager ,EN,_JOB,200, project manager
+He is a professional athlete playing tennis ,EN,_JOB,200, professional athlete
+She is a journalist covering international news ,EN,_JOB,200, journalist
+She works as a travel agent helping people plan vacations ,EN,_JOB,200, travel agent
+He is an engineer designing bridges ,EN,_JOB,200, engineer
+Her job is a fashion stylist ,EN,_JOB,200, fashion stylist
+He is a salesperson working in retail ,EN,_JOB,200, salesperson
+She works as a daycare teacher ,EN,_JOB,200, daycare teacher
+He is a truck driver delivering groceries ,EN,_JOB,200, truck driver
+She works as a software engineer ,EN,_JOB,200, software engineer
+His job title is a marketing director ,EN,_JOB,200, marketing director
+She is a flight attendant serving passengers ,EN,_JOB,200, flight attendant
+He is a carpenter building furniture ,EN,_JOB,200, carpenter
+Her occupation is a yoga instructor ,EN,_JOB,200, yoga instructor
+He works as a financial consultant ,EN,_JOB,200, financial consultant
+She is a professor of literature ,EN,_JOB,200, professor
+He is a CEO of a financial company ,EN,_JOB,200, CEO
+Her job involves being a public relations manager ,EN,_JOB,200, public relations manager
+He is a musician playing the guitar ,EN,_JOB,200, musician
+She is a dancer performing on stage ,EN,_JOB,200, dancer
+She works as a physical education teacher ,EN,_JOB,200, physical education teacher
+He is an architect designing sustainable buildings ,EN,_JOB,200, architect
+Her job is a makeup artist ,EN,_JOB,200, makeup artist
+He is a sales executive in the automotive industry ,EN,_JOB,200, sales executive
+She works as a museum curator ,EN,_JOB,200, museum curator
+His occupation is a veterinarian ,EN,_JOB,200, veterinarian
+She is a teacher at a special needs school ,EN,_JOB,200, teacher
+He is a lawyer specializing in intellectual property law ,EN,_JOB,200, lawyer
+She works as a personal stylist ,EN,_JOB,200, personal stylist
+His job title is a data engineer ,EN,_JOB,200, data engineer
+She is a police detective investigating crimes ,EN,_JOB,200, police detective
+He is a firefighter training for emergency situations ,EN,_JOB,200, firefighter
+Her profession is a registered dietitian ,EN,_JOB,200, registered dietitian
+He works as a software architect ,EN,_JOB,200, software architect
+She is a fashion blogger ,EN,_JOB,200, fashion blogger
+He is a pilot flying seaplanes ,EN,_JOB,200, pilot
+He is a professional athlete playing golf ,EN,_JOB,200, professional athlete
+She is a journalist reporting on environmental issues ,EN,_JOB,200, journalist
+His occupation is a blacksmith ,EN,_JOB,200, blacksmith
+She works as a travel photographer ,EN,_JOB,200, travel photographer
+He is a psychologist counseling patients ,EN,_JOB,200, psychologist
+He is a pilot flying gliders ,EN,_JOB,200, pilot
+She works as a tour guide ,EN,_JOB,200, tour guide
+His profession is a mechanic ,EN,_JOB,200, mechanic
+She is a teacher at a music academy ,EN,_JOB,200, teacher
+He is a lawyer specializing in immigration law ,EN,_JOB,200, lawyer
+She works as a fashion buyer ,EN,_JOB,200, fashion buyer
+His job title is a cybersecurity analyst ,EN,_JOB,200, cybersecurity analyst
+He is a firefighter rescuing people from burning buildings ,EN,_JOB,200, firefighter
+Her occupation is a registered nurse ,EN,_JOB,200, registered nurse
+He works as a systems administrator ,EN,_JOB,200, systems administrator
+She is a fashion designer creating couture dresses ,EN,_JOB,200, fashion designer
+He is a pilot flying cargo helicopters ,EN,_JOB,200, pilot
+Her job involves being an event planner ,EN,_JOB,200, event planner
+He is a professional athlete playing baseball ,EN,_JOB,200, professional athlete
+She is a journalist covering sports news ,EN,_JOB,200, journalist
+His profession is a baker ,EN,_JOB,200, baker
+She works as a wildlife biologist ,EN,_JOB,200, wildlife biologist
+He is a photographer specializing in wildlife photography ,EN,_JOB,200, photographer
+He is a pilot flying air ambulances ,EN,_JOB,200, pilot
+She works as a voice actor ,EN,_JOB,200, voice actor
+His occupation is a hairstylist ,EN,_JOB,200, hairstylist
+She is a teacher at a high school ,EN,_JOB,200, teacher
+He is a lawyer specializing in family law ,EN,_JOB,200, lawyer
+She works as a wedding planner ,EN,_JOB,200, wedding planner
+His job title is a network administrator ,EN,_JOB,200, network administrator
+He is a firefighter inspecting fire safety measures ,EN,_JOB,200, firefighter
+Her profession is a physical therapist ,EN,_JOB,200, physical therapist
+He works as a software quality assurance analyst ,EN,_JOB,200, software quality assurance analyst
+He is a pilot flying hot air balloons ,EN,_JOB,200, pilot
+Her job involves being a research scientist ,EN,_JOB,200, research scientist
+He is a professional athlete playing hockey ,EN,_JOB,200, professional athlete
+She is a journalist covering entertainment news ,EN,_JOB,200, journalist
+His occupation is a chef ,EN,_JOB,200, chef
+She works as a speech pathologist ,EN,_JOB,200, speech pathologist
+He is a wildlife photographer capturing images of exotic animals ,EN,_JOB,200, wildlife photographer
+Her job is a community outreach coordinator ,EN,_JOB,200, community outreach coordinator
+She works as a wedding photographer ,EN,_JOB,200, wedding photographer
+His profession is a locksmith ,EN,_JOB,200, locksmith
+She is a teacher at a language institute ,EN,_JOB,200, teacher
+He is a lawyer specializing in environmental law ,EN,_JOB,200, lawyer
+She works as a fashion stylist for celebrities ,EN,_JOB,200, fashion stylist
+His job title is a database administrator ,EN,_JOB,200, database administrator
+She is a police officer patrolling the beach ,EN,_JOB,200, police officer
+He is a firefighter conducting fire safety training ,EN,_JOB,200, firefighter
+Her occupation is a speech therapist ,EN,_JOB,200, speech therapist
+She is a fashion illustrator creating stunning sketches ,EN,_JOB,200, fashion illustrator
+He is a pilot flying military aircraft ,EN,_JOB,200, pilot
+Her job involves being a program manager ,EN,_JOB,200, program manager
+He is a professional athlete playing cricket ,EN,_JOB,200, professional athlete
+She is a journalist investigating corruption ,EN,_JOB,200, journalist
+His profession is a barista ,EN,_JOB,200, barista
+She works as a social media manager ,EN,_JOB,200, social media manager
+He is a software programmer ,EN,_JOB,200, software programmer
+Her job is a wedding planner ,EN,_JOB,200, wedding planner
+He is a sales representative for a pharmaceutical company ,EN,_JOB,200, sales representative
+She works as a dog trainer ,EN,_JOB,200, dog trainer
+His profession is a surgeon ,EN,_JOB,200, surgeon
+She is a marine biologist studying ocean ecosystems ,EN,_JOB,200, marine biologist
+He is a delivery driver for a courier service ,EN,_JOB,200, delivery driver
+She works as a data scientist ,EN,_JOB,200, data scientist
+His job title is a financial planner ,EN,_JOB,200, financial planner
+She is a professional soccer player ,EN,_JOB,200, professional soccer player
+He is a construction worker ,EN,_JOB,200, construction worker
+Her occupation is a personal fitness trainer ,EN,_JOB,200, personal fitness trainer
+He works as a business analyst ,EN,_JOB,200, business analyst
+She is a music teacher at a conservatory ,EN,_JOB,200, music teacher
+He is a CEO of a tech startup ,EN,_JOB,200, CEO
+Her job involves being a social media manager ,EN,_JOB,200, social media manager
+He is a professional musician playing the violin ,EN,_JOB,200, professional musician
+She is a fashion designer creating sustainable clothing ,EN,_JOB,200, fashion designer
+She works as a sports coach ,EN,_JOB,200, sports coach
+He is a landscape architect designing parks and gardens ,EN,_JOB,200, landscape architect
+Her job is a professional photographer ,EN,_JOB,200, professional photographer
+He is a sales manager for a telecommunications company ,EN,_JOB,200, sales manager
+She is a teacher at a performing arts school ,EN,_JOB,200, teacher
+He is a lawyer specializing in personal injury law ,EN,_JOB,200, lawyer
+She works as a fashion buyer for a retail chain ,EN,_JOB,200, fashion buyer
+His job title is a software tester ,EN,_JOB,200, software tester
+He is a firefighter training for search and rescue missions ,EN,_JOB,200, firefighter
+He works as a systems engineer ,EN,_JOB,200, systems engineer
+She is a journalist covering health and wellness topics ,EN,_JOB,200, journalist
+He is a wildlife photographer capturing images of endangered species ,EN,_JOB,200, wildlife photographer
+Her job is a social media strategist ,EN,_JOB,200, social media strategist
+He is a pilot flying commercial airliners ,EN,_JOB,200, pilot
+She works as a travel writer ,EN,_JOB,200, travel writer
+His profession is an automotive mechanic ,EN,_JOB,200, automotive mechanic
+She is a teacher at a Montessori school ,EN,_JOB,200, teacher
+She works as a fashion stylist for photo shoots ,EN,_JOB,200, fashion stylist
+She is a police detective investigating major crimes ,EN,_JOB,200, police detective
+He is a firefighter conducting fire safety inspections ,EN,_JOB,200, firefighter
+Her occupation is a physical therapist ,EN,_JOB,200, physical therapist
+He works as a software engineer ,EN,_JOB,200, software engineer
+Her job involves being a product manager ,EN,_JOB,200, product manager
+She is a journalist covering political news ,EN,_JOB,200, journalist
+His profession is a carpenter ,EN,_JOB,200, carpenter
+She works as a marketing manager ,EN,_JOB,200, marketing manager
+He is a photographer specializing in portrait photography ,EN,_JOB,200, photographer
+She works as a freelance writer ,EN,_JOB,200, freelance writer
+His occupation is an electrician ,EN,_JOB,200, electrician
+He is a lawyer specializing in criminal defense ,EN,_JOB,200, lawyer
+She works as a fashion blogger ,EN,_JOB,200, fashion blogger
+She is a police officer patrolling the city streets ,EN,_JOB,200, police officer
+He works as a software developer ,EN,_JOB,200, software developer
+She is a fashion illustrator creating fashion sketches ,EN,_JOB,200, fashion illustrator
+He is a pilot flying commercial planes ,EN,_JOB,200, pilot
+She is a journalist reporting on current events ,EN,_JOB,200, journalist
+His occupation is a plumber ,EN,_JOB,200, plumber
+She works as a public relations specialist ,EN,_JOB,200, public relations specialist
+Her job is a community manager ,EN,_JOB,200, community manager
+He is a pilot flying military helicopters ,EN,_JOB,200, pilot
+She works as a fashion stylist for editorial shoots ,EN,_JOB,200, fashion stylist
+She is a teacher at a preschool ,EN,_JOB,200, teacher
+He is a lawyer specializing in civil rights law ,EN,_JOB,200, lawyer
+She is a police officer investigating cybercrimes ,EN,_JOB,200, police officer
+Her occupation is a physical education teacher ,EN,_JOB,200, physical education teacher
+He works as a UX designer ,EN,_JOB,200, UX designer
+Her job involves being a program coordinator ,EN,_JOB,200, program coordinator
+She is a journalist covering international affairs ,EN,_JOB,200, journalist
+His profession is a chef ,EN,_JOB,200, chef
+She works as a social media strategist ,EN,_JOB,200, social media strategist
+He is a graphic designer creating visually appealing designs ,EN,_JOB,200, graphic designer
+Her job is a talent agent representing actors and musicians ,EN,_JOB,200, talent agent
+He is a sales engineer for a technology company ,EN,_JOB,200, sales engineer
+She works as a wildlife conservation biologist ,EN,_JOB,200, wildlife conservation biologist
+His profession is a financial analyst ,EN,_JOB,200, financial analyst
+She is a software tester finding and reporting bugs ,EN,_JOB,200, software tester
+He is a delivery person for an online grocery service ,EN,_JOB,200, delivery person
+She works as a user experience researcher ,EN,_JOB,200, user experience researcher
+His job title is a project manager ,EN,_JOB,200, project manager
+She is a professional ballet dancer ,EN,_JOB,200, professional ballet dancer
+He is a plumber fixing and installing pipes ,EN,_JOB,200, plumber
+Her occupation is a life coach ,EN,_JOB,200, life coach
+He works as a data analyst ,EN,_JOB,200, data analyst
+She is a vocal coach training singers ,EN,_JOB,200, vocal coach
+He is a CEO of a fashion company ,EN,_JOB,200, CEO
+He is a professional drummer performing in bands ,EN,_JOB,200, professional drummer
+She is a fashion stylist for photo shoots and fashion shows ,EN,_JOB,200, fashion stylist
+His profession is a veterinarian ,EN,_JOB,200, veterinarian
+She works as a nutritionist ,EN,_JOB,200, nutritionist
+He is a civil engineer designing infrastructure projects ,EN,_JOB,200, civil engineer
+He is a sales representative for a software company ,EN,_JOB,200, sales representative
+She works as a wildlife photographer ,EN,_JOB,200, wildlife photographer
+His occupation is a physical therapist ,EN,_JOB,200, physical therapist
+She is a teacher at an international school ,EN,_JOB,200, teacher
+She works as a fashion merchandiser ,EN,_JOB,200, fashion merchandiser
+She is a police officer in a narcotics unit ,EN,_JOB,200, police officer
+Her job involves being a marketing coordinator ,EN,_JOB,200, marketing coordinator
+She is a journalist covering technology news ,EN,_JOB,200, journalist
+She works as a speech therapist ,EN,_JOB,200, speech therapist
+She works as a travel blogger ,EN,_JOB,200, travel blogger
+She works as a fashion designer ,EN,_JOB,200, fashion designer
+His job title is a cybersecurity specialist ,EN,_JOB,200, cybersecurity specialist
+She works as a public relations manager ,EN,_JOB,200, public relations manager
+He is a wildlife biologist studying animal behavior ,EN,_JOB,200, wildlife biologist
+He is a pilot flying commercial flights ,EN,_JOB,200, pilot
+She works as a fashion photographer ,EN,_JOB,200, fashion photographer
+His occupation is a barber ,EN,_JOB,200, barber
+His job title is a network engineer ,EN,_JOB,200, network engineer
+She is a police officer patrolling the city ,EN,_JOB,200, police officer
+He is a firefighter conducting fire safety drills ,EN,_JOB,200, firefighter
+Her profession is a physical therapist assistant ,EN,_JOB,200, physical therapist assistant
+He works as a web developer ,EN,_JOB,200, web developer
+Her job involves being a marketing strategist ,EN,_JOB,200, marketing strategist
+She is a journalist covering fashion and beauty ,EN,_JOB,200, journalist
+His occupation is a baker ,EN,_JOB,200, baker
+She works as a social media coordinator ,EN,_JOB,200, social media coordinator
+Her job is an event planner ,EN,_JOB,200, event planner
+She works as a fashion stylist for editorials ,EN,_JOB,200, fashion stylist
+His profession is an architect ,EN,_JOB,200, architect
+She is a teacher at a special education school ,EN,_JOB,200, teacher
+He is a lawyer specializing in employment law ,EN,_JOB,200, lawyer
+His job title is a software architect ,EN,_JOB,200, software architect
+She is a police officer assigned to community policing ,EN,_JOB,200, police officer
+He is a firefighter providing emergency medical services ,EN,_JOB,200, firefighter
+She is a fashion designer creating haute couture designs ,EN,_JOB,200, fashion designer
+Her job involves being a program director ,EN,_JOB,200, program director
+She is a journalist covering sports events ,EN,_JOB,200, journalist
+He is a software engineer specializing in artificial intelligence ,EN,_JOB,200, software engineer
+He works as a financial advisor helping clients with investment strategies ,EN,_JOB,200, financial advisor
+His profession is an investment banker ,EN,_JOB,200, investment banker
+She is a quality assurance analyst testing software applications ,EN,_JOB,200, quality assurance analyst
+He is a courier delivering packages and documents ,EN,_JOB,200, courier
+She works as a user interface designer ,EN,_JOB,200, user interface designer
+She is a professional figure skater ,EN,_JOB,200, professional figure skater
+He is a carpenter specializing in custom furniture design ,EN,_JOB,200, carpenter
+Her occupation is a career counselor ,EN,_JOB,200, career counselor
+He works as a business intelligence analyst ,EN,_JOB,200, business intelligence analyst
+She is a vocal artist recording songs for movies and commercials ,EN,_JOB,200, vocal artist
+He is a CEO of a pharmaceutical company ,EN,_JOB,200, CEO
+He is a professional guitarist performing in bands ,EN,_JOB,200, professional guitarist
+She is a fashion buyer for a luxury department store ,EN,_JOB,200, fashion buyer
+She works as a personal trainer ,EN,_JOB,200, personal trainer
+He is a landscape designer creating beautiful outdoor spaces ,EN,_JOB,200, landscape designer
+Her job is a digital marketing specialist ,EN,_JOB,200, digital marketing specialist
+He is a sales manager for a software development company ,EN,_JOB,200, sales manager
+She works as a wildlife biologist studying animal populations ,EN,_JOB,200, wildlife biologist
+His occupation is a massage therapist ,EN,_JOB,200, massage therapist
+She works as a fashion consultant ,EN,_JOB,200, fashion consultant
+She is a police officer in a traffic enforcement unit ,EN,_JOB,200, police officer
+He is a firefighter training for hazardous material incidents ,EN,_JOB,200, firefighter
+Her profession is a pediatric nurse ,EN,_JOB,200, pediatric nurse
+She is a fashion stylist for editorial photo shoots ,EN,_JOB,200, fashion stylist
+Her job involves being a marketing analyst ,EN,_JOB,200, marketing analyst
+He is a professional athlete playing football ,EN,_JOB,200, professional athlete
+She is a journalist reporting on entertainment news ,EN,_JOB,200, journalist
+His occupation is a baker specializing in artisan breads ,EN,_JOB,200, baker
+He is a wildlife photographer capturing images of rare species ,EN,_JOB,200, wildlife photographer
+Her job is a social media manager for a fashion brand ,EN,_JOB,200, social media manager
+His profession is an electrician ,EN,_JOB,200, electrician
+She is a teacher at a music school ,EN,_JOB,200, teacher
+He is a lawyer specializing in corporate litigation ,EN,_JOB,200, lawyer
+She works as a fashion editor for a magazine ,EN,_JOB,200, fashion editor
+Her occupation is a physical education instructor ,EN,_JOB,200, physical education instructor
+He is a pilot flying cargo aircraft ,EN,_JOB,200, pilot
+He is a data engineer building data pipelines ,EN,_JOB,200, data engineer
+He works as a marketing strategist developing brand campaigns ,EN,_JOB,200, marketing strategist
+She is a marine biologist studying marine ecosystems ,EN,_JOB,200, marine biologist
+His profession is a financial planner ,EN,_JOB,200, financial planner
+She is a software quality assurance engineer ,EN,_JOB,200, software quality assurance engineer
+He is a bike courier delivering packages in the city ,EN,_JOB,200, bike courier
+She works as a user experience designer ,EN,_JOB,200, user experience designer
+His job title is a human resources manager ,EN,_JOB,200, human resources manager
+He is an interior designer creating functional and aesthetic spaces ,EN,_JOB,200, interior designer
+Her occupation is a life coach and motivational speaker ,EN,_JOB,200, life coach
+He works as a business analyst analyzing market trends ,EN,_JOB,200, business analyst
+She is a voiceover artist lending her voice to commercials and animations ,EN,_JOB,200, voiceover artist
+Her job involves being a social media strategist ,EN,_JOB,200, social media strategist
+He is a professional violinist performing in orchestras ,EN,_JOB,200, professional violinist
+She is a fashion stylist for red carpet events ,EN,_JOB,200, fashion stylist
+She works as a yoga instructor ,EN,_JOB,200, yoga instructor
+He is a landscape architect designing outdoor spaces ,EN,_JOB,200, landscape architect
+He is a sales executive for a pharmaceutical company ,EN,_JOB,200, sales executive
+His occupation is a personal trainer ,EN,_JOB,200, personal trainer
+She is a teacher at a middle school ,EN,_JOB,200, teacher
+His job title is a systems administrator ,EN,_JOB,200, systems administrator
+Her profession is a nurse practitioner ,EN,_JOB,200, nurse practitioner
+He is a pilot flying private planes ,EN,_JOB,200, pilot
+He is a wildlife photographer capturing breathtaking images of nature ,EN,_JOB,200, wildlife photographer
+Her job is a social media strategist for a fashion brand ,EN,_JOB,200, social media strategist
+She works as a fashion stylist for music videos ,EN,_JOB,200, fashion stylist
+She is a police detective investigating cybercrimes ,EN,_JOB,200, police detective
+He is a data scientist conducting data analysis ,EN,_JOB,200, data scientist
+Her job is a fashion buyer for a luxury boutique ,EN,_JOB,200, fashion buyer
+He works as a digital marketer optimizing online campaigns ,EN,_JOB,200, digital marketer
+She is a marine ecologist studying coral reef ecosystems ,EN,_JOB,200, marine ecologist
+His profession is an investment analyst ,EN,_JOB,200, investment analyst
+She is a software developer specializing in mobile applications ,EN,_JOB,200, software developer
+He is a food delivery driver for a popular restaurant ,EN,_JOB,200, food delivery driver
+She works as a graphic designer creating visual identities ,EN,_JOB,200, graphic designer
+She is a professional golfer competing in tournaments ,EN,_JOB,200, professional golfer
+Her occupation is a nutritionist helping clients improve their diets ,EN,_JOB,200, nutritionist
+He works as a market researcher analyzing consumer behavior ,EN,_JOB,200, market researcher
+She is a voice actor providing voices for animated characters ,EN,_JOB,200, voice actor
+He is a CEO of a fashion startup ,EN,_JOB,200, CEO
+Her job involves being a social media coordinator ,EN,_JOB,200, social media coordinator
+He is a professional drummer performing with a band ,EN,_JOB,200, professional drummer
+She is a fashion blogger and stylist ,EN,_JOB,200, fashion blogger
+She works as a fitness instructor leading exercise classes ,EN,_JOB,200, fitness instructor
+He is a landscape painter capturing natural landscapes on canvas ,EN,_JOB,200, landscape painter
+His occupation is a personal chef ,EN,_JOB,200, personal chef
+He is a lawyer specializing in intellectual property rights ,EN,_JOB,200, lawyer
+He is a firefighter training for hazardous materials response ,EN,_JOB,200, firefighter
+Her profession is a nurse midwife ,EN,_JOB,200, nurse midwife
+She is a fashion influencer and model ,EN,_JOB,200, fashion influencer
+He is a pilot flying commercial helicopters ,EN,_JOB,200, pilot
+She is a journalist covering environmental issues ,EN,_JOB,200, journalist
+His occupation is a tattoo artist ,EN,_JOB,200, tattoo artist
+She works as a public relations manager for a tech company ,EN,_JOB,200, public relations manager
+He is a wildlife biologist studying animal conservation ,EN,_JOB,200, wildlife biologist
+Her job is a social media strategist for a beauty brand ,EN,_JOB,200, social media strategist
+His profession is a mechanic specializing in luxury cars ,EN,_JOB,200, mechanic
+She is a teacher at a dance studio ,EN,_JOB,200, teacher
+He is a lawyer specializing in immigration and nationality law ,EN,_JOB,200, lawyer
+She works as a fashion editor for an online magazine ,EN,_JOB,200, fashion editor
+Her occupation is a speech pathologist ,EN,_JOB,200, speech pathologist
+He works as a UI designer creating intuitive user interfaces ,EN,_JOB,200, UI designer
+She is a fashion designer creating sustainable fashion collections ,EN,_JOB,200, fashion designer
+He is a pilot flying cargo jets ,EN,_JOB,200, pilot
+His profession is a chef de cuisine at a renowned restaurant ,EN,_JOB,200, chef de cuisine
+She works as a social media strategist for a nonprofit organization ,EN,_JOB,200, social media strategist
+He is a wildlife photographer capturing rare animal species ,EN,_JOB,200, wildlife photographer
+Her job is an event coordinator ,EN,_JOB,200, event coordinator
+He is a pilot flying military transport planes ,EN,_JOB,200, pilot
+She works as a fashion stylist for music artists ,EN,_JOB,200, fashion stylist
+His occupation is a locksmith ,EN,_JOB,200, locksmith
+She works as a fashion blogger and influencer ,EN,_JOB,200, fashion blogger
+She is a police officer assigned to a canine unit ,EN,_JOB,200, police officer
+Her profession is a physical therapy assistant ,EN,_JOB,200, physical therapy assistant
+She is a journalist covering technology and innovation ,EN,_JOB,200, journalist
+His occupation is a florist ,EN,_JOB,200, florist
+She works as a social media strategist for a fashion brand ,EN,_JOB,200, social media strategist
+He is a wildlife conservation researcher ,EN,_JOB,200, wildlife conservation researcher
+Her job is a talent agent ,EN,_JOB,200, talent agent
+He is a pilot flying military fighter jets ,EN,_JOB,200, pilot
+She works as a fashion stylist for magazine editorials ,EN,_JOB,200, fashion stylist
+His profession is a civil engineer ,EN,_JOB,200, civil engineer
+She works as a fashion blogger and content creator ,EN,_JOB,200, fashion blogger
+His job title is a systems analyst ,EN,_JOB,200, systems analyst
+She is a police officer assigned to a traffic division ,EN,_JOB,200, police officer
+He is a firefighter performing search and rescue operations ,EN,_JOB,200, firefighter
+She is a fashion designer creating sustainable and ethical clothing ,EN,_JOB,200, fashion designer
+She is a journalist covering fashion and lifestyle topics ,EN,_JOB,200, journalist
+She works as a social media manager for a beauty brand ,EN,_JOB,200, social media manager
+He is a data analyst analyzing market trends ,EN,_JOB,200, data analyst
+Her job is a fashion stylist for celebrity red carpet events ,EN,_JOB,200, fashion stylist
+He works as a business consultant advising companies on growth strategies ,EN,_JOB,200, business consultant
+She is a marine researcher studying coral bleaching ,EN,_JOB,200, marine researcher
+His profession is a financial advisor ,EN,_JOB,200, financial advisor
+She is a software engineer developing mobile applications ,EN,_JOB,200, software engineer
+He is a delivery driver for an online grocery service ,EN,_JOB,200, delivery driver
+She works as a UI/UX designer creating intuitive user interfaces ,EN,_JOB,200, UI/UX designer
+His job title is a human resources coordinator ,EN,_JOB,200, human resources coordinator
+She is a professional dancer performing in a renowned ballet company ,EN,_JOB,200, professional dancer
+He is an urban planner designing sustainable cities ,EN,_JOB,200, urban planner
+Her occupation is a career counselor helping individuals find their ideal jobs ,EN,_JOB,200, career counselor
+He works as a marketing manager overseeing advertising campaigns ,EN,_JOB,200, marketing manager
+She is a voice coach training singers for performances ,EN,_JOB,200, voice coach
+He is a CEO of a multinational corporation ,EN,_JOB,200, CEO
+He is a professional guitarist playing in a rock band ,EN,_JOB,200, professional guitarist
+His profession is a pharmacist specializing in clinical pharmacy ,EN,_JOB,200, pharmacist
+She works as a personal trainer helping clients achieve their fitness goals ,EN,_JOB,200, personal trainer
+Her job is a content strategist for a digital marketing agency ,EN,_JOB,200, content strategist
+He is a sales manager for a technology company ,EN,_JOB,200, sales manager
+She works as a zoology researcher studying animal behavior ,EN,_JOB,200, zoology researcher
+His occupation is a financial analyst ,EN,_JOB,200, financial analyst
+She works as a fashion photographer for magazine editorials ,EN,_JOB,200, fashion photographer
+She is a police officer in a community outreach program ,EN,_JOB,200, police officer
+He is a firefighter conducting fire safety training for schools ,EN,_JOB,200, firefighter
+He works as a backend developer ,EN,_JOB,200, backend developer
+He is a pilot flying passenger planes ,EN,_JOB,200, pilot
+His occupation is a hairstylist specializing in bridal hair ,EN,_JOB,200, hairstylist
+She works as a social media strategist for a fitness brand ,EN,_JOB,200, social media strategist
+Her job is a social media manager for a travel agency ,EN,_JOB,200, social media manager
+He is a pilot flying private jets for celebrities ,EN,_JOB,200, pilot
+She works as a travel blogger and photographer ,EN,_JOB,200, travel blogger
+She is a teacher at a culinary school ,EN,_JOB,200, teacher
+She works as a fashion stylist for runway shows ,EN,_JOB,200, fashion stylist
+She is a police detective solving complex criminal cases ,EN,_JOB,200, police detective
+He is a firefighter providing fire safety education to the community ,EN,_JOB,200, firefighter
+She is a fashion designer creating sustainable and inclusive clothing ,EN,_JOB,200, fashion designer
+He is a pilot flying private helicopters ,EN,_JOB,200, pilot
+His profession is a barista at a specialty coffee shop ,EN,_JOB,200, barista
+He is a wildlife photographer documenting endangered species ,EN,_JOB,200, wildlife photographer
+Her job is an event organizer ,EN,_JOB,200, event organizer
+He is a pilot flying military transport aircraft ,EN,_JOB,200, pilot
+His occupation is a carpenter specializing in custom furniture ,EN,_JOB,200, carpenter
+She works as a fashion blogger and YouTuber ,EN,_JOB,200, fashion blogger
+His job title is a software engineer ,EN,_JOB,200, software engineer
+She is a police officer assigned to a detective unit ,EN,_JOB,200, police officer
+Her profession is a physical therapist aide ,EN,_JOB,200, physical therapist aide
+He works as a data engineer ,EN,_JOB,200, data engineer
+She is a fashion stylist for magazine photo shoots ,EN,_JOB,200, fashion stylist
+Her job involves being a market researcher ,EN,_JOB,200, market researcher
+His occupation is a florist specializing in wedding arrangements ,EN,_JOB,200, florist
+She works as a social media strategist for a tech startup ,EN,_JOB,200, social media strategist
+He is a wildlife rehabilitator ,EN,_JOB,200, wildlife rehabilitator
+He is a pilot flying military transport helicopters ,EN,_JOB,200, pilot
+She works as a fashion stylist for music festivals ,EN,_JOB,200, fashion stylist
+His profession is a civil engineer specializing in structural design ,EN,_JOB,200, civil engineer
+She is a teacher at a yoga studio ,EN,_JOB,200, teacher
+She works as a fashion blogger and fashion consultant ,EN,_JOB,200, fashion blogger
+She is a police officer assigned to a narcotics division ,EN,_JOB,200, police officer
+He is a firefighter performing water rescues ,EN,_JOB,200, firefighter
+Her occupation is a physical therapist assistant ,EN,_JOB,200, physical therapist assistant
+She is a fashion designer creating sustainable swimwear ,EN,_JOB,200, fashion designer
+She is a journalist covering fashion trends ,EN,_JOB,200, journalist
+His profession is a baker specializing in artisan bread ,EN,_JOB,200, baker
+She works as a social media manager for a beauty influencer ,EN,_JOB,200, social media manager
+He is a market researcher analyzing consumer behavior ,EN,_JOB,200, market researcher
+Her job is a fashion buyer selecting merchandise for a retail store ,EN,_JOB,200, fashion buyer
+He works as a project manager overseeing construction projects ,EN,_JOB,200, project manager
+His profession is a stockbroker ,EN,_JOB,200, stockbroker
+She is a graphic designer creating visual identities for brands ,EN,_JOB,200, graphic designer
+He is a truck driver delivering goods across the country ,EN,_JOB,200, truck driver
+She works as a product manager for a software company ,EN,_JOB,200, product manager
+His job title is a logistics coordinator ,EN,_JOB,200, logistics coordinator
+She is a professional ballet dancer performing in a ballet company ,EN,_JOB,200, professional ballet dancer
+Her occupation is a life coach helping individuals achieve personal goals ,EN,_JOB,200, life coach
+He works as a financial analyst evaluating investment opportunities ,EN,_JOB,200, financial analyst
+He is a CFO of a multinational corporation ,EN,_JOB,200, CFO
+Her job involves being a social media content creator ,EN,_JOB,200, social media content creator
+He is a professional drummer playing in a jazz band ,EN,_JOB,200, professional drummer
+She is a food critic writing restaurant reviews ,EN,_JOB,200, food critic
+His profession is a veterinarian specializing in exotic animals ,EN,_JOB,200, veterinarian
+She works as a yoga instructor teaching classes and workshops ,EN,_JOB,200, yoga instructor
+He is a landscape architect designing public parks and gardens ,EN,_JOB,200, landscape architect
+Her job is a digital marketer managing online advertising campaigns ,EN,_JOB,200, digital marketer
+She works as a marine conservationist protecting marine wildlife ,EN,_JOB,200, marine conservationist
+His occupation is a data entry clerk ,EN,_JOB,200, data entry clerk
+She is a teacher at an art school ,EN,_JOB,200, teacher
+She works as a fashion illustrator creating fashion illustrations ,EN,_JOB,200, fashion illustrator
+She is a police officer in a community policing unit ,EN,_JOB,200, police officer
+She is a fashion blogger and style influencer ,EN,_JOB,200, fashion blogger
+Her job involves being a market analyst ,EN,_JOB,200, market analyst
+His occupation is a landscape designer ,EN,_JOB,200, landscape designer
+She works as a social media strategist for a travel brand ,EN,_JOB,200, social media strategist
+He is a wildlife biologist studying animal populations ,EN,_JOB,200, wildlife biologist
+Her job is a talent manager for actors and actresses ,EN,_JOB,200, talent manager
+She works as a travel writer exploring different destinations ,EN,_JOB,200, travel writer
+She works as a fashion stylist for red carpet events ,EN,_JOB,200, fashion stylist
+She is a police officer in a canine unit ,EN,_JOB,200, police officer
+Her occupation is a occupational therapist ,EN,_JOB,200, occupational therapist
+She is a fashion designer creating bridal gowns ,EN,_JOB,200, fashion designer
+His profession is a chef specializing in French cuisine ,EN,_JOB,200, chef
+She works as a social media manager for a wellness brand ,EN,_JOB,200, social media manager
+He is a wildlife filmmaker documenting animal behavior ,EN,_JOB,200, wildlife filmmaker
+Her job is a casting director for a film production company ,EN,_JOB,200, casting director
+She works as a fashion stylist for editorial photo shoots ,EN,_JOB,200, fashion stylist
+His occupation is a plumber specializing in residential plumbing ,EN,_JOB,200, plumber
+She is a teacher at a dance academy ,EN,_JOB,200, teacher
+She works as a fashion blogger and style consultant ,EN,_JOB,200, fashion blogger
+She is a police officer assigned to a traffic unit ,EN,_JOB,200, police officer
+Her profession is a speech therapist ,EN,_JOB,200, speech therapist
+He works as a UI designer ,EN,_JOB,200, UI designer
+She is a fashion stylist for music videos and concerts ,EN,_JOB,200, fashion stylist
+His occupation is a florist specializing in event floral arrangements ,EN,_JOB,200, florist
+He is a wildlife conservation photographer ,EN,_JOB,200, wildlife conservation photographer
+Her job is a casting agent for a talent agency ,EN,_JOB,200, casting agent
+He is a pilot flying cargo planes for a logistics company ,EN,_JOB,200, pilot
+She works as a fashion stylist for music concerts ,EN,_JOB,200, fashion stylist
+His profession is a mechanical engineer specializing in robotics ,EN,_JOB,200, mechanical engineer
+She is a teacher at a fitness studio ,EN,_JOB,200, teacher
+She works as a fashion blogger and personal stylist ,EN,_JOB,200, fashion blogger
+She is a police officer assigned to a community relations unit ,EN,_JOB,200, police officer
+He is a firefighter conducting fire safety workshops for schools ,EN,_JOB,200, firefighter
+Her occupation is a dental hygienist ,EN,_JOB,200, dental hygienist
+He works as a UX researcher ,EN,_JOB,200, UX researcher
+She is a fashion designer creating sustainable clothing lines ,EN,_JOB,200, fashion designer
+He is a pilot flying private jets for business executives ,EN,_JOB,200, pilot
+Her job involves being an event coordinator ,EN,_JOB,200, event coordinator
+He is a professional athlete playing rugby ,EN,_JOB,200, professional athlete
+She is a journalist covering lifestyle and culture topics ,EN,_JOB,200, journalist
+His profession is a tattoo artist ,EN,_JOB,200, tattoo artist
+She works as a social media manager for a fashion influencer ,EN,_JOB,200, social media manager
+He is a market analyst conducting market research ,EN,_JOB,200, market analyst
+Her job is a fashion stylist for editorial photo shoots ,EN,_JOB,200, fashion stylist
+He works as a software engineer developing mobile applications ,EN,_JOB,200, software engineer
+She is a marine biologist studying coral reef ecosystems ,EN,_JOB,200, marine biologist
+She is a UX/UI designer creating intuitive user interfaces ,EN,_JOB,200, UX/UI designer
+He is a truck mechanic repairing and maintaining commercial vehicles ,EN,_JOB,200, truck mechanic
+She works as a project coordinator for a nonprofit organization ,EN,_JOB,200, project coordinator
+His job title is a supply chain manager ,EN,_JOB,200, supply chain manager
+She is a professional tennis player competing in international tournaments ,EN,_JOB,200, professional tennis player
+He is an interior designer creating functional and stylish spaces ,EN,_JOB,200, interior designer
+Her occupation is a nutritionist helping clients achieve their health goals ,EN,_JOB,200, nutritionist
+He works as a data analyst analyzing large datasets ,EN,_JOB,200, data analyst
+She is a voice coach training aspiring singers ,EN,_JOB,200, voice coach
+He is a professional cyclist competing in road races ,EN,_JOB,200, professional cyclist
+She is a journalist covering political events ,EN,_JOB,200, journalist
+His profession is a chef specializing in Asian cuisine ,EN,_JOB,200, chef
+She works as a personal trainer helping clients reach their fitness goals ,EN,_JOB,200, personal trainer
+Her job is a digital content creator for a lifestyle brand ,EN,_JOB,200, digital content creator
+He works as a sales manager for a manufacturing company ,EN,_JOB,200, sales manager
+She is a wildlife conservationist protecting endangered species ,EN,_JOB,200, wildlife conservationist
+His occupation is a software tester ,EN,_JOB,200, software tester
+She is a teacher at a primary school ,EN,_JOB,200, teacher
+She works as a fashion photographer capturing stunning images ,EN,_JOB,200, fashion photographer
+She is a police officer in a special operations unit ,EN,_JOB,200, police officer
+Her profession is a physical therapist specializing in sports injuries ,EN,_JOB,200, physical therapist
+He works as a web developer creating responsive websites ,EN,_JOB,200, web developer
+He is a pilot flying commercial jets ,EN,_JOB,200, pilot
+Her job involves being a market strategist ,EN,_JOB,200, market strategist
+He is a professional surfer riding big waves ,EN,_JOB,200, professional surfer
+She is a journalist covering scientific breakthroughs ,EN,_JOB,200, journalist
+His occupation is an architect specializing in sustainable design ,EN,_JOB,200, architect
+She works as a social media manager for a fitness brand ,EN,_JOB,200, social media manager
+He is a wildlife researcher studying animal behavior ,EN,_JOB,200, wildlife researcher
+Her job is a talent agent representing actors and actresses ,EN,_JOB,200, talent agent
+She works as a travel blogger exploring different cultures ,EN,_JOB,200, travel blogger
+His profession is a mechanical engineer specializing in automotive design ,EN,_JOB,200, mechanical engineer
+She is a teacher at a cooking school ,EN,_JOB,200, teacher
+His job title is a database architect ,EN,_JOB,200, database architect
+He is a firefighter conducting fire safety training for businesses ,EN,_JOB,200, firefighter
+She is a fashion designer creating streetwear collections ,EN,_JOB,200, fashion designer
+He is a pilot flying cargo planes for a shipping company ,EN,_JOB,200, pilot
+His profession is a florist specializing in wedding arrangements ,EN,_JOB,200, florist
+She works as a social media strategist for a beauty brand ,EN,_JOB,200, social media strategist
+He is a marine geologist studying the ocean floor ,EN,_JOB,200, marine geologist
+Her job is a casting director for a television network ,EN,_JOB,200, casting director
+He is a pilot flying commercial airlines ,EN,_JOB,200, pilot
+His occupation is an electrician specializing in commercial wiring ,EN,_JOB,200, electrician
+She works as a fashion blogger and style influencer ,EN,_JOB,200, fashion blogger
+His job title is a systems engineer ,EN,_JOB,200, systems engineer
+He is a firefighter conducting fire safety demonstrations ,EN,_JOB,200, firefighter
+Her profession is a occupational therapist ,EN,_JOB,200, occupational therapist
+He works as a data scientist ,EN,_JOB,200, data scientist
+He is a pilot flying helicopters for search and rescue missions ,EN,_JOB,200, pilot
+She is a journalist covering technology trends ,EN,_JOB,200, journalist
+His occupation is a wedding planner ,EN,_JOB,200, wedding planner
+She works as a social media strategist for a food brand ,EN,_JOB,200, social media strategist
+He is a marine biologist studying whale behavior ,EN,_JOB,200, marine biologist
+Her job is a talent scout for a music label ,EN,_JOB,200, talent scout
+He is a pilot flying cargo planes for international shipping ,EN,_JOB,200, pilot
+She works as a fashion stylist for fashion shows ,EN,_JOB,200, fashion stylist
+His profession is a civil engineer specializing in bridge construction ,EN,_JOB,200, civil engineer
+She works as a fashion blogger and personal shopper ,EN,_JOB,200, fashion blogger
+She is a police officer assigned to a community outreach program ,EN,_JOB,200, police officer
+He is a firefighter conducting fire safety education for children ,EN,_JOB,200, firefighter
+She is a fashion designer creating sustainable fashion lines ,EN,_JOB,200, fashion designer
+He is a pilot flying private planes for wealthy individuals ,EN,_JOB,200, pilot
+She is a journalist covering travel and adventure stories ,EN,_JOB,200, journalist
+His profession is a tattoo artist specializing in realistic tattoos ,EN,_JOB,200, tattoo artist
+Her job is a makeup artist for film and television productions ,EN,_JOB,200, makeup artist
+He works as a software developer building mobile applications ,EN,_JOB,200, software developer
+She is a zoologist studying animal behavior in the wild ,EN,_JOB,200, zoologist
+She is a graphic designer creating visually appealing designs ,EN,_JOB,200, graphic designer
+He is a car mechanic specializing in engine repairs ,EN,_JOB,200, car mechanic
+She works as an event planner organizing corporate events ,EN,_JOB,200, event planner
+She is a professional golfer competing in tournaments worldwide ,EN,_JOB,200, professional golfer
+He works as a data scientist analyzing big data sets ,EN,_JOB,200, data scientist
+She is a vocal coach training singers for performances ,EN,_JOB,200, vocal coach
+He is a startup founder running a successful tech company ,EN,_JOB,200, startup founder
+Her job involves being a social media manager for a fashion brand ,EN,_JOB,200, social media manager
+He is a professional skateboarder performing daring tricks ,EN,_JOB,200, professional skateboarder
+His profession is a pastry chef creating delicious desserts ,EN,_JOB,200, pastry chef
+She works as a fitness instructor leading group exercise classes ,EN,_JOB,200, fitness instructor
+He is an environmental scientist studying climate change ,EN,_JOB,200, environmental scientist

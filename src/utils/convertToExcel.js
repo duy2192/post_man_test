@@ -6,13 +6,11 @@ const convertToExcel = async (json) => {
   try {
     const xls = json2xls(json, {
       fields: [
-        "message",
-        "language",
-        "expectedEntityType",
-        "expectedCode",
-        "actualEntityType",
-        "actualCode",
-        "result",
+        "Message",
+        "Language",
+        "Expected_Entity_Value",
+        "Actual_Entity_Value",
+        "Result",
       ],
     });
 

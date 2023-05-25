@@ -1,7 +1,7 @@
 const { apiUrl, token } = require("./config.js");
 
 const toEqual = (actual, expect) => {
-  return actual === expect;
+  return actual == expect;
 };
 
 const toLabel = (status) => {
@@ -12,7 +12,7 @@ const test = async (body, expect) => {
   const request = {
     method: "POST",
     headers: {
-      "content-type": "application/json",
+      "Content-Type": "application/json",
       Authorization: token,
     },
     body: JSON.stringify(body),
@@ -30,38 +30,36 @@ const test = async (body, expect) => {
 
     const actual_code = response.status;
     const actual_type = data?.entity_type ?? "";
+    const actual_value = data?.entity_value ?? "";
 
     const expect_code = expect.code;
     const expectType = expect.type;
+    const expectValue = expect.value;
 
     let result = true;
 
-    const checkType = toEqual(actual_type, expectType);
-    const checkCode = toEqual(actual_code, expect_code);
+    // const checkType = toEqual(actual_type, expectType);
+    // const checkCode = toEqual(actual_code, expect_code);
 
-    if (!checkCode) result = false;
-    if (!checkType) result = false;
+    const checkValue = toEqual(actual_value, expectValue);
+
+    if (!checkValue) result = false;
+    // if (!checkType) result = false;
 
     return {
-      message: body.message,
-      language: body.language,
-      job: entityJob || "",
-      expectedEntityType: expect.type,
-      expectedCode: expect.code,
-      actualEntityType: null,
-      actualCode: null,
-      result: toLabel(result),
+      Message: body.message,
+      Language: body.language,
+      Expected_Entity_Value: expect.value,
+      Actual_Entity_Value: entityJob || "",
+      Result: toLabel(result),
     };
   } catch (err) {
     return {
-      message: body.message,
-      language: body.language,
-      job: "",
-      expectedEntityType: expect.type,
-      expectedCode: expect.code,
-      actualEntityType: "",
-      actualCode: "",
-      result: toLabel(false),
+      Message: body.message,
+      Language: body.language,
+      Expected_Entity_Value: expect.value,
+      Actual_Entity_Value: "",
+      Result: toLabel(false),
     };
   }
 };

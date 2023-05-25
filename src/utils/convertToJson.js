@@ -21,12 +21,14 @@ const convertToJson = (sampleFileName, sampleConvertName) => {
         const language = data[Object.keys(data)[1]];
         const expected_entity_type = data[Object.keys(data)[2]];
         const expected_code = data[Object.keys(data)[3]];
+        const expected_value = data[Object.keys(data)[4]];
 
         const newData = {
           message,
           language,
           expected_entity_type,
           expected_code,
+          expected_value,
         };
         return results.push(newData);
       })
