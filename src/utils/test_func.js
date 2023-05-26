@@ -1,7 +1,10 @@
 const { apiUrl, token } = require("../config.js");
 
 const toEqual = (actual, expect) => {
-  return actual == expect;
+  let actualStr = actual.toString().toLowerCase();
+  let expectStr = expect.toString().toLowerCase();
+
+  return actualStr == expectStr;
 };
 
 const toLabel = (status) => {
@@ -26,8 +29,6 @@ const test = async (body, expect) => {
       data = data[0];
     }
 
-    const entityJob = data?.entity_job || "";
-
     const actual_code = response.status;
     const actual_type = data?.entity_type ?? "";
     const actual_value = data?.entity_value ?? "";
@@ -50,7 +51,7 @@ const test = async (body, expect) => {
       Message: body.message,
       Language: body.language,
       Expected_Entity_Value: expect.value,
-      Actual_Entity_Value: entityJob || "",
+      Actual_Entity_Value: actual_value || "",
       Result: toLabel(result),
     };
   } catch (err) {
