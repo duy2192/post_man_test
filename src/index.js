@@ -21,6 +21,7 @@ const main = async () => {
       type: element.expected_entity_type,
       code: element.expected_code,
       value: element.expected_value,
+      raw: element.expected_raw,
     };
 
     listRequest.push(() => test(body, expect));

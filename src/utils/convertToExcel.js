@@ -8,8 +8,12 @@ const convertToExcel = async (json) => {
       fields: [
         "Message",
         "Language",
+        "Expected_Entity_Type",
+        "Actual_Entity_Type",
         "Expected_Entity_Value",
         "Actual_Entity_Value",
+        "Expected_Entity_Raw",
+        "Actual_Entity_Raw",
         "Result",
       ],
     });

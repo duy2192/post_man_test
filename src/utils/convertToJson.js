@@ -22,6 +22,7 @@ const convertToJson = (sampleFileName, sampleConvertName) => {
         const expected_entity_type = data[Object.keys(data)[2]];
         const expected_code = data[Object.keys(data)[3]];
         const expected_value = data[Object.keys(data)[4]];
+        const expected_raw = data[Object.keys(data)[5]];
 
         const newData = {
           message,
@@ -29,6 +30,7 @@ const convertToJson = (sampleFileName, sampleConvertName) => {
           expected_entity_type,
           expected_code,
           expected_value,
+          expected_raw,
         };
         return results.push(newData);
       })
