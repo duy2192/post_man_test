@@ -25,6 +25,8 @@ const test = async (body, expect) => {
 
   try {
     const response = await fetch(apiUrl, request);
+    console.log("response" + response);
+    console.log("====================================");
     let data = await response.json();
 
     if (Array.isArray(data)) {
