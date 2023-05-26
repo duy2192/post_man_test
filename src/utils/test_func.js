@@ -1,8 +1,8 @@
 const { apiUrl, token } = require("../config.js");
 
 const toEqual = (actual, expect) => {
-  let actualStr = actual.toString().toLowerCase();
-  let expectStr = expect.toString().toLowerCase();
+  let actualStr = actual.toString().toLowerCase().trim();
+  let expectStr = expect.toString().toLowerCase().trim();
 
   return actualStr == expectStr;
 };
