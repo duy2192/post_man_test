@@ -21,7 +21,7 @@ const test = async (body, expect) => {
   try {
     const response = await fetch(apiUrl, request);
     let data = await response.json();
-
+    console.log(data);
     if (Array.isArray(data)) {
       data = data[0];
     }
@@ -54,6 +54,8 @@ const test = async (body, expect) => {
       Result: toLabel(result),
     };
   } catch (err) {
+    console.log("Lỗi");
+    console.log(err);
     return {
       Message: body.message,
       Language: body.language,
