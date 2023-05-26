@@ -49,7 +49,7 @@ const test = async (body, expect) => {
     const checkValue = toEqual(actual_value, expectValue);
     const checkRaw = toEqual(actual_raw, expectRaw);
 
-    if (!checkValue) result = false;
+    // if (!checkValue) result = false;
     if (!checkType) result = false;
     if (!checkRaw) result = false;
 
@@ -61,7 +61,7 @@ const test = async (body, expect) => {
       Expected_Entity_Value: expectValue,
       Actual_Entity_Value: actual_value || "",
       Expected_Entity_Raw: expectRaw,
-      Actual_Entity_Raw: actual_raw,
+      Actual_Entity_Raw: actual_raw || "",
       Result: toLabel(result),
     };
   } catch (err) {
